@@ -1,0 +1,61 @@
+list_dvd_musica
+=============
+(001) Baile\Tango 17
+(018) BSOs\2000 The Perfect Storm 12
+(030) BSOs\BSO Sabrina - John.Williams.-.[Sabrina].320kbps.(mp3) 13
+(043) BSOs\Chico y Rita BSO 35
+(078) BSOs\Green Lantern movie 2011 banda sonora - 320 20
+(098) BSOs\Soundtrack - 1982 Tron (128)\1982 Tron 25
+(123) Eurovision\Düsseldorf 2011\DISC 1 21
+(144) Eurovision\Düsseldorf 2011\DISC 2 22
+(166) Eurovision\Oslo_2010-2CD-2010-pLAN9 43
+(209) Folk\Best of bollywood - FULL PACKAGE OF ORIGINAL SOUNDTRACKS\Best of bollywood 25
+(234) Folk\Best of bollywood - FULL PACKAGE OF ORIGINAL SOUNDTRACKS\Kabhi Khushi kabhi ghum 11
+(245) Folk\Best of bollywood - FULL PACKAGE OF ORIGINAL SOUNDTRACKS\Kal Ho naa ho 7
+(252) Folk\Best of bollywood - FULL PACKAGE OF ORIGINAL SOUNDTRACKS\Kuch Kuch hota Hai 10
+(262) Folk\Best of bollywood - FULL PACKAGE OF ORIGINAL SOUNDTRACKS\Lagaan 8
+(270) Folk\Best of bollywood - FULL PACKAGE OF ORIGINAL SOUNDTRACKS\MAIN HOON NA 8
+(278) Folk\Best of bollywood - FULL PACKAGE OF ORIGINAL SOUNDTRACKS\Veer Zaara 11
+(289) Folk\Natacha Atlas-Ayeshteni 12
+(301) Folk\Orquesta Andalusí de Tanger y Juan Peña Lebrijano-Encuentros 8
+(309) Folk\Perico Sambeat.Flamenco Big Band (2008) 8
+(317) Folk\Radio tarifa-Cruzando el río 11
+(328) Folk\sevillanas 2006\Amigos de Gines 10
+(338) Folk\sevillanas 2006\Brumas 11
+(349) Folk\sevillanas 2006\Ecos de las Marismas 10
+(359) Folk\sevillanas 2006\Ecos del Rocio 10
+(369) Folk\sevillanas 2006\Las Carlotas 10
+(379) Folk\sevillanas 2006\los Marismeños 9
+(388) Folk\sevillanas 2006\Los Romeros de la puebla 11
+(399) Folk\sevillanas 2006\Manuel Orta 12
+(411) Folk\sevillanas 2006\Maria de la Colina 10
+(421) Folk\sevillanas 2006\Quejio 0
+(421) Folk\sevillanas 2006\Requiebros 12
+(433) Folk\sevillanas 2006\Senderos 10
+(443) Folk\Yo-Yo Ma-Obrigado Brazil 16
+(459) Jazz\Aldo Romano-Complete Communion to Don Cherry 12
+(471) Jazz\Charles MingusKen Burns Jazz 14
+(485) Jazz\Chet Baker-Complete Studio Sessions with Dick Twardzik - featuring Lars Gullin and Catherina Valente 13
+(498) Jazz\Esbjorn Svensson Trio-Retrospective - The very best of e.s.t 13
+(511) Jazz\John Coltrane-A Love Supreme\John Coltrane – A Love Supreme _ Analog Blog_files\a_data 1
+(512) Jazz\John Coltrane-A Love Supreme\John Coltrane – A Love Supreme _ Analog Blog_files\like_data 4
+(516) Jazz\John Coltrane-A Love Supreme\John Coltrane – A Love Supreme _ Analog Blog_files\likebox_data 39
+(555) Jazz\Lennart Åberg with Peter Erskine-Free Sprit 7
+(562) Jazz\Miles Davies.1970-08-29.IsleofWight 1
+(563) Jazz\Roy Eldridge & Dizzy Gillespie-The Complete Trumpet Kings Battle 15
+(578) Jazz\The Mills Brothers and Count Basie-Complete Recordings 21
+(599) Opera\turandot 6
+(605) Pop\Driller Killer - 5 albums (1993-2000) 192kbs\Driller_Killer_-_And_the_Winner_is-2000-SataN_INT 16
+(621) Pop\Driller Killer - 5 albums (1993-2000) 192kbs\Driller_Killer_-_Brutalize-1993-rH 17
+(638) Pop\Driller Killer - 5 albums (1993-2000) 192kbs\Driller_Killer_-_Fuck_the_World-1997-SataN_INT 19
+(657) Pop\Driller Killer - 5 albums (1993-2000) 192kbs\Driller_Killer_-_Reality_Bites-1998-SataN_INT 18
+(675) Pop\Driller Killer - 5 albums (1993-2000) 192kbs\Driller_Killer_-_Total_Fucking_Hate-1995-SataN_INT 15
+(690) Pop\Duffy - Rockferry (2008) + Bonustracks\Bonus 7
+(697) Pop\Duffy - Rockferry (2008) + Bonustracks\Covers 4
+(701) Pop\Lena - My Cassette Player - 2010 21
+(722) Pop\Maldita Nerea - Facil 10
+(732) Pop\Nirvana.-.Nevermind 13
+(745) Pop\Roy Orbison - Greatets Hits Disco 2 22
+(767) Pop\VA.-.Pioneer.The.Album.Vol.7.3CD.2006.MP3.192kbps.[MP3-ES.com] 60
+
+NUMERO DE CANCIONES DEL DVD : 827

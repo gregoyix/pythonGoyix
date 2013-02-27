@@ -1,0 +1,11 @@
+Para generar listados de cds/dvds usaba "Directory printer" pero al pasar a Windows 7 he encontrado otro equivalente 
+Karen's Directory Printer.
+
+Lo que pasa es que antes usaba un programa en C++ para pasar del listado de todos los ficheros mp3 a otro con los nombres 
+de los albumes. Al cambiar de programa es imposible generar el mismo listado por lo que hay que cambiar el programa en C++.
+
+Parece mejor solución hacer un script python que haga lo mismo. He impreso el código en C++ y la idea es pasarlo a python.
+
+D:\RES PRIVATA\Metadatos\Mis Programas\Obt_Canciones_CD\Obt_Canciones_CDDlg.cpp
+
+Tengo un pantallazo con las opciones del programa nuevo que se acercan lo más posible al formato antiguo.

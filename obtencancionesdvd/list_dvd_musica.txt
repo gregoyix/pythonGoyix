@@ -1,0 +1,1081 @@
+COMMENT	Karen's Directory Printer v5.3.2
+COMMENT	© 1997, 1999-2002, 2004-2005, 2007-2008 by Karen Kenworthy, All Rights Reserved
+COMMENT	http://www.karenware.com/
+COMMENT	
+COMMENT	Lines beginning with "COMMENT" (like this one) contain comments or explanations.
+COMMENT	They do not contain any information about particular files or folders.
+COMMENT	
+COMMENT	Lines beginning with "FILE" contain information about a Single File.
+COMMENT	Here's the information found in those lines:
+COMMENT	File Name <TAB> File Size <TAB> Date Last Modified <TAB> Attributes
+COMMENT	
+COMMENT	Lines beginning with "FOLDER" contain information about a Single Folder.
+COMMENT	Here's the information found in those lines:
+COMMENT	Full Name (Path+Folder) <TAB> Attributes <TAB> Number of Sub-Folders <TAB> Number of Files <TAB> Folder Size <TAB> Compressed Size
+COMMENT	
+COMMENT	Lines beginning with "TOTAL" contain information about a Folder, and all its Sub-Folders.
+COMMENT	Here's the information found in those lines:
+COMMENT	Full Name (Path+Folder) <TAB> Attributes <TAB> Number of Sub-Folders <TAB> Number of Files <TAB> Folder Size <TAB> Compressed Size
+COMMENT	
+COMMENT	Computer: PC505728
+COMMENT	User: gmr
+COMMENT	Prepared: 16:38 10/01/2012
+COMMENT	Folder: E:\
+COMMENT	Include Sub-Folders? Yes
+COMMENT	
+FOLDER	E:\	-------	7	0	0	0
+FOLDER	E:\Baile\	-------	1	0	0	0
+FOLDER	E:\Baile\Tango\	-------	0	17	97.065.240	97.065.240
+FILE	Tango.txt	553	07/06/2010 20:26	R-------
+FILE	Track No01.mp3	3.689.034	07/06/2010 20:38	R-------
+FILE	Track No02.mp3	6.527.813	07/06/2010 20:38	R-------
+FILE	Track No03.mp3	8.723.771	07/06/2010 20:39	R-------
+FILE	Track No04.mp3	6.465.955	07/06/2010 20:40	R-------
+FILE	Track No05.mp3	7.120.479	07/06/2010 20:41	R-------
+FILE	Track No06.mp3	5.540.594	07/06/2010 20:41	R-------
+FILE	Track No07.mp3	6.725.926	07/06/2010 20:42	R-------
+FILE	Track No08.mp3	5.288.146	07/06/2010 20:42	R-------
+FILE	Track No09.mp3	4.860.156	07/06/2010 20:42	R-------
+FILE	Track No10.mp3	6.825.400	07/06/2010 20:43	R-------
+FILE	Track No11.mp3	6.342.239	07/06/2010 20:43	R-------
+FILE	Track No12.mp3	6.820.385	07/06/2010 20:44	R-------
+FILE	Track No13.mp3	5.136.845	07/06/2010 20:44	R-------
+FILE	Track No14.mp3	6.664.904	07/06/2010 20:45	R-------
+FILE	Track No15.mp3	4.892.757	07/06/2010 20:45	R-------
+FILE	Track No16.mp3	5.440.283	07/06/2010 20:45	R-------
+TOTAL	E:\Baile\Tango\	-------	0	17	97.065.240	97.065.240
+TOTAL	E:\Baile\	-------	1	17	97.065.240	97.065.240
+FOLDER	E:\BSOs\	-------	5	0	0	0
+FOLDER	E:\BSOs\2000 The Perfect Storm\	-------	0	12	76.103.974	76.103.974
+FILE	01 - Coming Home From The Sea.mp3	9.047.562	29/11/2004 10:22	R-------
+FILE	02 - The Fog's Just Lifting....mp3	4.033.307	29/11/2004 10:22	R-------
+FILE	03 - Let's Go Boys.mp3	8.551.851	29/11/2004 10:22	R-------
+FILE	04 - To The Flemish Cap.mp3	7.007.079	29/11/2004 10:22	R-------
+FILE	05 - The Decision To Turn Around.mp3	8.974.004	29/11/2004 10:22	R-------
+FILE	06 - Small Victories.mp3	8.178.616	29/11/2004 10:22	R-------
+FILE	07 - Coast Guard Rescue.mp3	9.408.255	29/11/2004 10:22	R-------
+FILE	08 - Rogue Wave.mp3	9.659.858	29/11/2004 10:22	R-------
+FILE	09 - There's No Goodbye... Only Love.mp3	7.252.016	29/11/2004 10:22	R-------
+FILE	10 - Yours Forever (Theme From The Perfect Storm).mp3	3.890.450	29/11/2004 10:22	R-------
+FILE	2000 The Perfect Storm.txt	388	29/11/2004 10:22	R-------
+FILE	2000TPS.jpg	100.588	29/11/2004 10:22	R-------
+TOTAL	E:\BSOs\2000 The Perfect Storm\	-------	0	12	76.103.974	76.103.974
+FOLDER	E:\BSOs\BSO Sabrina - John.Williams.-.[Sabrina].320kbps.(mp3)\	-------	0	13	135.769.728	135.769.728
+FILE	1. Theme from Sabrina .mp3	23.670.912	24/01/2006 23:20	R-------
+FILE	10. Sabrina and Linus Date .mp3	6.398.784	24/01/2006 23:23	R-------
+FILE	11. How Can I Remember.mp3	6.799.104	24/01/2006 23:24	R-------
+FILE	12. Sabrina's Return to Paris .mp3	5.688.384	24/01/2006 23:24	R-------
+FILE	13. Theme from Sabrina (Reprise).mp3	12.915.264	24/01/2006 23:24	R-------
+FILE	2. Moonlight.mp3	12.867.264	24/01/2006 23:21	R-------
+FILE	3. Linus' New Life .mp3	6.546.624	24/01/2006 23:21	R-------
+FILE	4. Growing Up in Paris .mp3	7.275.072	24/01/2006 23:22	R-------
+FILE	5. (In the) Moonlight (Instrumental) .mp3	7.172.544	24/01/2006 23:22	R-------
+FILE	6. Sabrina RemembersLa Vie en Rose .mp3	4.078.464	24/01/2006 23:22	R-------
+FILE	7. Sabrina Comes Home .mp3	10.163.904	24/01/2006 23:23	R-------
+FILE	8. Nantucket Visit.mp3	6.054.144	24/01/2006 23:23	R-------
+FILE	9. The Party Sequence .mp3	26.139.264	24/01/2006 23:23	R-------
+TOTAL	E:\BSOs\BSO Sabrina - John.Williams.-.[Sabrina].320kbps.(mp3)\	-------	0	13	135.769.728	135.769.728
+FOLDER	E:\BSOs\Chico y Rita BSO\	-------	0	35	61.200.533	61.200.533
+FILE	01 Cachao creador del mambo.mp3	728.211	06/03/2011 00:25	R-------
+FILE	02 Blues For Andre (Bebo’s Blues).mp3	4.309.704	06/03/2011 00:25	R-------
+FILE	03 Bésame mucho.mp3	2.015.944	06/03/2011 00:25	R-------
+FILE	04 Con poco coco.mp3	2.581.860	06/03/2011 00:25	R-------
+FILE	05 Ebony Concerto (Allegro Moderato).mp3	1.089.328	06/03/2011 00:25	R-------
+FILE	06 Persecución.mp3	1.501.436	06/03/2011 00:25	R-------
+FILE	07 Celia.mp3	2.324.398	06/03/2011 00:25	R-------
+FILE	08 Paran pan pan.mp3	2.887.807	06/03/2011 00:25	R-------
+FILE	09 Sabor a mí.mp3	1.254.422	06/03/2011 00:25	R-------
+FILE	10.Ay que mala e.mp3	1.735.827	06/03/2011 00:25	R-------
+FILE	11.Sabor a mí (instrumental).mp3	3.311.199	06/03/2011 00:25	R-------
+FILE	12.A Mayra (desamor and coda).mp3	1.755.973	06/03/2011 00:25	R-------
+FILE	13.A Mayra (descarga).mp3	2.004.659	06/03/2011 00:25	R-------
+FILE	14.A Mayra (sad walk).mp3	461.971	06/03/2011 00:25	R-------
+FILE	15.Chico’s Dream -Medley.mp3	1.338.850	06/03/2011 00:25	R-------
+FILE	16.Ecuación.mp3	3.314.961	06/03/2011 00:25	R-------
+FILE	17.Tin tin deo.mp3	3.129.387	06/03/2011 00:26	R-------
+FILE	18.Chano Pozo.mp3	898.739	06/03/2011 00:26	R-------
+FILE	19.Nocturno en Batanga.mp3	2.644.554	06/03/2011 00:26	R-------
+FILE	20.Nocturno en Batanga (suite cubana).mp3	461.971	06/03/2011 00:26	R-------
+FILE	21.Love For Sale.mp3	1.692.025	06/03/2011 00:26	R-------
+FILE	22.Love For Sale Reprise.mp3	656.740	06/03/2011 00:26	R-------
+FILE	23.A Mayra (Lily).mp3	1.634.765	06/03/2011 00:26	R-------
+FILE	24.Stardust.mp3	1.281.171	06/03/2011 00:26	R-------
+FILE	25.A Mayra (Lily instrumental).mp3	2.591.891	06/03/2011 00:26	R-------
+FILE	26.Vanguard Strings.mp3	502.931	06/03/2011 00:26	R-------
+FILE	27.Mambo Herd.mp3	1.665.276	06/03/2011 00:26	R-------
+FILE	28.Deportación.mp3	1.447.519	06/03/2011 00:26	R-------
+FILE	29.Lily  con Estrella Morente.mp3	5.590.749	06/03/2011 00:26	R-------
+FILE	30.La bella cubana.mp3	3.940.646	06/03/2011 00:26	R-------
+FILE	chico otro frontal.jpg	84.017	06/03/2011 11:36	R-------
+FILE	chico y rita frontal.jpg	57.619	06/03/2011 11:32	R-------
+FILE	chico.jpg	43.914	06/03/2011 11:28	R-------
+FILE	chico.pdf	238.565	06/03/2011 12:04	R-------
+FILE	listado.doc	21.504	06/03/2011 12:23	R------X
+TOTAL	E:\BSOs\Chico y Rita BSO\	-------	0	35	61.200.533	61.200.533
+FOLDER	E:\BSOs\Green Lantern movie 2011 banda sonora - 320\	-------	0	20	135.517.554	135.517.554
+FILE	01 Prologue _ Parallax Unbound.mp3	7.782.257	13/06/2011 22:05	R-------
+FILE	02 Abin Sur Attacked.mp3	2.966.312	13/06/2011 22:05	R-------
+FILE	03 Carol Scolds Hal.mp3	3.450.099	13/06/2011 22:05	R-------
+FILE	04 Drone Dogfight.mp3	8.038.244	13/06/2011 22:06	R-------
+FILE	05 Did Adam Put You Up to This_.mp3	6.042.503	13/06/2011 22:06	R-------
+FILE	06 The Ring Chooses Hal.mp3	6.174.280	15/06/2011 10:46	R-------
+FILE	07 Genesis of Good and Evil.mp3	6.445.829	13/06/2011 22:06	R-------
+FILE	08 The Induction Process.mp3	7.633.875	13/06/2011 22:06	R-------
+FILE	09 Welcome to Oa.mp3	4.313.182	13/06/2011 22:06	R-------
+FILE	10 We're Going to Fly Now.mp3	4.753.094	13/06/2011 22:06	R-------
+FILE	11 You Reek of Fear.mp3	5.560.794	13/06/2011 22:06	R-------
+FILE	12 The Origin of Parallax.mp3	8.443.673	13/06/2011 22:06	R-------
+FILE	13 Run.mp3	13.444.536	13/06/2011 22:06	R-------
+FILE	14 You Have to Be Chosen.mp3	18.174.807	13/06/2011 22:06	R-------
+FILE	15 Hector's Analysis.mp3	2.852.419	13/06/2011 22:06	R-------
+FILE	16 Hal Battles Parallax.mp3	17.803.757	13/06/2011 22:06	R-------
+FILE	17 The Corps.mp3	5.589.127	15/06/2011 10:49	R-------
+FILE	18 Green Lantern Oath (feat. Ryan Reynolds).mp3	984.181	13/06/2011 22:06	R-------
+FILE	cover.jpg	59.021	13/06/2011 13:52	R-------
+FILE	cvr bklt.pdf	5.005.564	13/06/2011 22:04	R-------
+TOTAL	E:\BSOs\Green Lantern movie 2011 banda sonora - 320\	-------	0	20	135.517.554	135.517.554
+FOLDER	E:\BSOs\Soundtrack - 1982 Tron (128)\	-------	1	0	0	0
+FOLDER	E:\BSOs\Soundtrack - 1982 Tron (128)\1982 Tron\	-------	0	25	59.806.105	59.806.105
+FILE	01 - Creation Of TRON.mp3	799.641	02/10/2009 08:53	R-------
+FILE	02 - Only Solutions.mp3	3.544.379	02/10/2009 08:53	R-------
+FILE	03 - We've Got Company.mp3	2.229.897	02/10/2009 08:53	R-------
+FILE	04 - Wormhole.mp3	2.401.260	02/10/2009 08:53	R-------
+FILE	05 - Ring Game And Escape.mp3	2.845.969	02/10/2009 08:53	R-------
+FILE	06 - Water, Music, And TRONaction.mp3	2.326.028	02/10/2009 08:53	R-------
+FILE	07 - TRON Scherzo.mp3	1.712.046	02/10/2009 08:53	R-------
+FILE	08 - Miracle And Magician.mp3	2.570.952	02/10/2009 08:53	R-------
+FILE	09 - Magic Landings.mp3	3.587.846	02/10/2009 08:53	R-------
+FILE	10 - Theme From TRON.mp3	1.562.416	02/10/2009 08:53	R-------
+FILE	11 - 1990's Theme.mp3	2.054.354	02/10/2009 08:53	R-------
+FILE	12 - Love Theme.mp3	2.051.010	02/10/2009 08:53	R-------
+FILE	13 - Tower Music - Let Us Pray.mp3	3.648.450	02/10/2009 08:53	R-------
+FILE	14 - The Light Sailer.mp3	2.515.781	02/10/2009 08:53	R-------
+FILE	15 - Sea Of Simulation.mp3	3.259.330	02/10/2009 08:53	R-------
+FILE	16 - A New TRON And The MCP.mp3	4.978.397	02/10/2009 08:53	R-------
+FILE	17 - Anthem.mp3	1.610.482	02/10/2009 08:53	R-------
+FILE	18 - Ending Titles.mp3	5.070.348	02/10/2009 08:53	R-------
+FILE	19 - TRONaction.mp3	1.436.193	02/10/2009 08:53	R-------
+FILE	1982 Tron.txt	684	02/10/2009 08:53	R-------
+FILE	1982T.jpg	70.940	02/10/2009 08:53	R-------
+FILE	20 - Break In.mp3	5.356.232	02/10/2009 08:53	R-------
+FILE	21 - Anthem For Keyboard Solo.mp3	1.114.364	02/10/2009 08:53	R-------
+FILE	Banda Sonora - 3000 Enlaces ed2k - Titulos En Español - OST BSO BOF - Mr. Yusseply.html	1.600.154	10/05/2009 00:00	R------X
+FILE	Soundtrack - 3000 ed2k Links - English Titles - OST BSO BOF - Mr. Yusseply.html	1.458.952	10/05/2009 00:00	R------X
+TOTAL	E:\BSOs\Soundtrack - 1982 Tron (128)\1982 Tron\	-------	0	25	59.806.105	59.806.105
+TOTAL	E:\BSOs\Soundtrack - 1982 Tron (128)\	-------	1	25	59.806.105	59.806.105
+TOTAL	E:\BSOs\	-------	6	105	468.397.894	468.397.894
+FOLDER	E:\Eurovision\	-------	2	0	0	0
+FOLDER	E:\Eurovision\Düsseldorf 2011\	-------	2	2	69.647	69.647
+FILE	Cover.jpg	63.503	13/04/2011 23:42	R-------
+FILE	Thumbs.db	6.144	16/09/2011 19:52	RH------
+FOLDER	E:\Eurovision\Düsseldorf 2011\DISC 1\	-------	0	21	152.399.194	152.399.194
+FILE	01 - Aurela Gaçe - Feel The Passion (Albania).mp3	7.284.894	13/04/2011 23:30	R-------
+FILE	02 - Emmy - Boom-Boom (Armenia).mp3	7.173.060	13/04/2011 23:30	R-------
+FILE	03 - Nadine Beiler - The Secret Is Love (Austria).mp3	7.328.749	13/04/2011 23:30	R-------
+FILE	04 - Ell & Nikki - Running Scared (Azerbaijan).mp3	7.229.485	13/04/2011 23:30	R-------
+FILE	05 - Dino Merlin - Love In Rewind (Bosnia & Herzegovina).mp3	7.054.021	13/04/2011 23:31	R-------
+FILE	06 - Witloof Bay - With Love Baby (Belgium).mp3	7.193.957	13/04/2011 23:31	R-------
+FILE	07 - Poli Genova - Na Inat (Bulgaria).mp3	7.424.880	13/04/2011 23:31	R-------
+FILE	08 - Anastasiya Vinnikova - I Love Belarus (Belarus).mp3	7.327.704	13/04/2011 23:31	R-------
+FILE	09 - Anna Rossinelli - In Love For A While (Switzerland).mp3	6.793.762	13/04/2011 23:31	R-------
+FILE	10 - Christos Mylordos - San Angelos S'Agapisa (Cyprus).mp3	7.270.235	13/04/2011 23:31	R-------
+FILE	11 - Lena - Taken By A Stranger (Germany).mp3	7.316.211	13/04/2011 23:31	R-------
+FILE	12 - A Friend In London - New Tomorrow (Denmark).mp3	7.393.533	13/04/2011 23:31	R-------
+FILE	13 - Getter Jaani - Rockefeller Street (Estonia).mp3	7.784.325	13/04/2011 23:31	R-------
+FILE	14 - Lucía Pérez - Que Me Quiten Lo Bailao-They Can't Take The Fun Away From Me (Spain).mp3	7.099.917	13/04/2011 23:31	R-------
+FILE	15 - Paradise Oskar - Da Da Dam (Finland).mp3	7.317.255	13/04/2011 23:31	R-------
+FILE	16 - Amaury Vassili - Sognu (France).mp3	7.038.268	13/04/2011 23:31	R-------
+FILE	17 - Blue - I Can (United Kingdom).mp3	7.324.570	13/04/2011 23:31	R-------
+FILE	18 - Eldrine - One More Day (Georgia).mp3	7.219.035	13/04/2011 23:31	R-------
+FILE	19 - Loukas Giorkas feat. Stereo Mike - Watch My Dance (Greece).mp3	7.306.806	13/04/2011 23:31	R-------
+FILE	20 - Daria - Celebrate (Croatia).mp3	7.266.055	13/04/2011 23:31	R-------
+FILE	21 - Kati Wolf - What About My Dreams (Hungary).mp3	7.252.472	13/04/2011 23:31	R-------
+TOTAL	E:\Eurovision\Düsseldorf 2011\DISC 1\	-------	0	21	152.399.194	152.399.194
+FOLDER	E:\Eurovision\Düsseldorf 2011\DISC 2\	-------	0	22	159.544.953	159.544.953
+FILE	01 - Jedward - Lipstick (Ireland).mp3	7.094.773	13/04/2011 23:37	R-------
+FILE	02 - Dana International - Ding Dong (Israel).mp3	6.811.525	13/04/2011 23:37	R-------
+FILE	03 - Sjonni's Friends - Coming Home (Iceland).mp3	7.378.904	13/04/2011 23:37	R-------
+FILE	04 - Raphael Gualazzi - Madness Of Love-Follia D'Amore (Italy).mp3	7.230.529	13/04/2011 23:37	R-------
+FILE	05 - Evelina Sasenko - C'Est Ma Vie (Lithuania).mp3	7.449.904	13/04/2011 23:37	R-------
+FILE	06 - Musiqq - Angel In Disguise (Latvia).mp3	7.374.725	13/04/2011 23:37	R-------
+FILE	07 - Zdob Si Zdub - So Lucky (Moldova).mp3	7.400.847	13/04/2011 23:37	R-------
+FILE	08 - Vlatko Ilievski - Rusinka (F.Y.R. Macedonia).mp3	7.087.378	13/04/2011 23:37	R-------
+FILE	09 - Glen Vella - One Life (Malta).mp3	7.310.986	13/04/2011 23:37	R-------
+FILE	10 - 3JS - Never Alone (The Netherlands).mp3	7.201.272	13/04/2011 23:37	R-------
+FILE	11 - Stella Mwangi - Haba Haba (Norway).mp3	7.322.480	13/04/2011 23:37	R-------
+FILE	12 - Magdalena Tul - Jestem (Poland).mp3	7.333.974	13/04/2011 23:37	R-------
+FILE	13 - Homens Du Luta - A Luta É Alegria (Portugal).mp3	6.934.823	13/04/2011 23:37	R-------
+FILE	14 - Hotel FM - Change (Romania).mp3	7.386.219	13/04/2011 23:37	R-------
+FILE	15 - Nina - Caroban (Serbia).mp3	7.281.680	13/04/2011 23:37	R-------
+FILE	16 - Alexej Vorobjov - Get You (Russia).mp3	7.226.349	13/04/2011 23:37	R-------
+FILE	17 - Eric Saade - Popular (Sweden).mp3	7.290.088	13/04/2011 23:37	R-------
+FILE	18 - Maja Keuc - No One (Slovenia).mp3	7.278.594	13/04/2011 23:37	R-------
+FILE	19 - TWiiNS - I Am Still Alive (Slovakia).mp3	7.426.970	13/04/2011 23:37	R-------
+FILE	20 - Senit - Stand By (San Marino).mp3	7.323.525	13/04/2011 23:37	R-------
+FILE	21 - Yüksek Sadakat - Live It Up (Turkey).mp3	7.184.553	13/04/2011 23:37	R-------
+FILE	22 - Mika Newton - Angel (Ukraine).mp3	7.214.855	13/04/2011 23:37	R-------
+TOTAL	E:\Eurovision\Düsseldorf 2011\DISC 2\	-------	0	22	159.544.953	159.544.953
+TOTAL	E:\Eurovision\Düsseldorf 2011\	-------	2	45	312.013.794	312.013.794
+FOLDER	E:\Eurovision\Oslo_2010-2CD-2010-pLAN9\	-------	0	43	177.359.950	177.359.950
+FILE	000-va-eurovision_song_contest_oslo_2010-2010.jpg	2.878.912	08/05/2010 23:23	R-------
+FILE	000-va-eurovision_song_contest_oslo_2010-2010-2cd.m3u	1.976	08/05/2010 23:23	R-------
+FILE	000-va-eurovision_song_contest_oslo_2010-2010-2cd.nfo	7.385	08/05/2010 23:23	R-------
+FILE	000-va-eurovision_song_contest_oslo_2010-2010-2cd.sfv	2.366	08/05/2010 23:23	R-------
+FILE	101-juliana_pasha-its_all_about_you_(albania).mp3	4.789.320	08/05/2010 23:23	R-------
+FILE	102-eva_rivas-apricot_stone_(armenia).mp3	4.619.057	08/05/2010 23:23	R-------
+FILE	103-safura-drip_drop_(azerbaijan).mp3	4.098.361	08/05/2010 23:23	R-------
+FILE	104-vuksin_brajic-thunder_and_lightning_(bosnia_and_herzegovina).mp3	4.289.644	08/05/2010 23:23	R-------
+FILE	105-tom_dice-me_and_my_guitar_(belgium).mp3	3.500.887	08/05/2010 23:23	R-------
+FILE	106-miroslav_miro_kostadinov-angel_si_ti_(you_are_an_angel)_(bulgaria).mp3	4.603.195	08/05/2010 23:23	R-------
+FILE	107-3and2-butterflies_(belarus).mp3	4.461.833	08/05/2010 23:23	R-------
+FILE	108-michael_von_der_heide-il_pleut_de_for_(switzerland).mp3	4.692.422	08/05/2010 23:23	R-------
+FILE	109-jon_lilygreen_and_the_islanders-life_looks_better_in_spring_(cyprus).mp3	4.535.684	08/05/2010 23:23	R-------
+FILE	110-lena-satellite_(germany).mp3	4.704.210	08/05/2010 23:23	R-------
+FILE	111-chanee_and_nevergreen-in_a_moment_like_this_(denmark).mp3	4.927.206	08/05/2010 23:24	R-------
+FILE	112-malcolm_lincoln-siren_(estonia).mp3	4.163.575	08/05/2010 23:23	R-------
+FILE	113-daniel_diges-algo_pequenito_(something_tiny)_(spain).mp3	4.405.140	08/05/2010 23:23	R-------
+FILE	114-kuunkuiskaajat-tyolki_ellaaaa_(finland).mp3	4.454.314	08/05/2010 23:23	R-------
+FILE	115-jessy_matador-allez_olla_ole_(france).mp3	4.682.144	08/05/2010 23:23	R-------
+FILE	116-josh_dubovie-that_sounds_good_to_me_(united_kingdom).mp3	4.635.405	08/05/2010 23:23	R-------
+FILE	117-sofia_nizharadze-shine_(georgia).mp3	4.324.581	08/05/2010 23:23	R-------
+FILE	118-giorgos_alkaios_and_friends-opa_(greece).mp3	5.067.832	08/05/2010 23:24	R-------
+FILE	119-feminnem-lako_je_sve_(croatia).mp3	4.347.602	08/05/2010 23:23	R-------
+FILE	201-niamh_kavanagh-its_for_you_(ireland).mp3	4.476.308	08/05/2010 23:23	R-------
+FILE	202-harel_skaat-milim_(israel).mp3	4.242.913	08/05/2010 23:23	R-------
+FILE	203-hera_bjork-je_ne_sais_quoi_(iceland).mp3	4.768.049	08/05/2010 23:23	R-------
+FILE	204-inculto-eastern_european_funk_(lithuania).mp3	3.493.378	08/05/2010 23:23	R-------
+FILE	205-aisha-what_for_(latvia).mp3	4.543.654	08/05/2010 23:23	R-------
+FILE	206-sunstroke_project_and_olia_tira-run_away_(moldova).mp3	4.446.904	08/05/2010 23:23	R-------
+FILE	207-gjoko_taneski-jas_ja_imam_silata_(fyr_macedonia).mp3	4.931.546	08/05/2010 23:24	R-------
+FILE	208-thea_garrett-my_dream_(malta).mp3	4.605.114	08/05/2010 23:23	R-------
+FILE	209-sieneka-ik_ben_verliefd_(sha-la-lie)_(the_netherlands).mp3	4.419.734	08/05/2010 23:23	R-------
+FILE	210-didrik_solli-tangen-my_heart_is_yours_(norway).mp3	3.954.661	08/05/2010 23:23	R-------
+FILE	211-marcin_mroziski-legenda_(poland).mp3	3.322.024	08/05/2010 23:23	R-------
+FILE	212-filipa_azevedo-ha_dias_assim_(portugal).mp3	4.269.405	08/05/2010 23:23	R-------
+FILE	213-paula_seling_and_ovi-playing_with_fire_(romania).mp3	4.432.657	08/05/2010 23:23	R-------
+FILE	214-milan_stankovic-ovo_je_balkan_(this_is_the_balkans)_(serbia).mp3	5.257.656	08/05/2010 23:24	R-------
+FILE	215-peter_nalitch_and_friends-lost_and_forgotten_(russia).mp3	4.272.140	08/05/2010 23:23	R-------
+FILE	216-anna_bergendahl-this_is_my_life_(sweden).mp3	5.031.225	08/05/2010 23:23	R-------
+FILE	217-ansambel_zlindra_and_kalamari-narodnozabavni_rock_(slovenia).mp3	5.123.942	08/05/2010 23:23	R-------
+FILE	218-kristina_pelakova-horehronie_(slovakia).mp3	4.319.189	08/05/2010 23:23	R-------
+FILE	219-manga-we_could_be_the_same_(turkey).mp3	4.974.622	08/05/2010 23:23	R-------
+FILE	220-alyosha-sweet_people_(ukraine).mp3	4.281.778	08/05/2010 23:23	R-------
+TOTAL	E:\Eurovision\Oslo_2010-2CD-2010-pLAN9\	-------	0	43	177.359.950	177.359.950
+TOTAL	E:\Eurovision\	-------	4	88	489.373.744	489.373.744
+FOLDER	E:\Folk\	-------	7	0	0	0
+FOLDER	E:\Folk\Best of bollywood - FULL PACKAGE OF ORIGINAL SOUNDTRACKS\	-------	7	0	0	0
+FOLDER	E:\Folk\Best of bollywood - FULL PACKAGE OF ORIGINAL SOUNDTRACKS\Best of bollywood\	-------	0	25	77.482.747	77.482.747
+FILE	Best Of Bollywood 1- (1).mp4	2.340.398	24/04/2005 19:27	R-------
+FILE	Best Of Bollywood 1- (10).mp4	2.219.997	24/04/2005 19:32	R-------
+FILE	Best Of Bollywood 1- (11).mp4	2.487.056	24/04/2005 19:33	R-------
+FILE	Best Of Bollywood 1- (2).mp4	2.661.896	24/04/2005 19:28	R-------
+FILE	Best Of Bollywood 1- (3).mp4	4.404.070	24/04/2005 19:28	R-------
+FILE	Best Of Bollywood 1- (4).mp4	3.928.448	24/04/2005 19:29	R-------
+FILE	Best Of Bollywood 1- (5).mp4	2.876.208	24/04/2005 19:30	R-------
+FILE	Best Of Bollywood 1- (6).mp4	2.768.565	24/04/2005 19:30	R-------
+FILE	Best Of Bollywood 1- (7).mp4	5.187.282	24/04/2005 19:31	R-------
+FILE	Best Of Bollywood 1- (8).mp4	3.359.580	24/04/2005 19:31	R-------
+FILE	Best Of Bollywood 1- (9).mp4	2.217.111	24/04/2005 19:32	R-------
+FILE	Best Of Bollywood 1-.mp4	3.978.205	24/04/2005 19:27	R-------
+FILE	Best Of Bollywood 2- (1).mp4	3.472.806	24/04/2005 19:34	R-------
+FILE	Best Of Bollywood 2- (10).mp4	3.295.265	24/04/2005 19:39	R-------
+FILE	Best Of Bollywood 2- (11).mp4	2.409.713	24/04/2005 19:39	R-------
+FILE	Best Of Bollywood 2- (12).mp4	3.605.201	24/04/2005 19:26	R-------
+FILE	Best Of Bollywood 2- (2).mp4	2.378.312	24/04/2005 19:34	R-------
+FILE	Best Of Bollywood 2- (3).mp4	2.930.104	24/04/2005 19:35	R-------
+FILE	Best Of Bollywood 2- (4).mp4	2.961.582	24/04/2005 19:35	R-------
+FILE	Best Of Bollywood 2- (5).mp4	3.130.621	24/04/2005 19:36	R-------
+FILE	Best Of Bollywood 2- (6).mp4	2.705.989	24/04/2005 19:37	R-------
+FILE	Best Of Bollywood 2- (7).mp4	3.624.986	24/04/2005 19:37	R-------
+FILE	Best Of Bollywood 2- (8).mp4	1.927.318	24/04/2005 19:37	R-------
+FILE	Best Of Bollywood 2- (9).mp4	3.733.045	24/04/2005 19:38	R-------
+FILE	Best Of Bollywood 2-.mp4	2.878.989	24/04/2005 19:33	R-------
+TOTAL	E:\Folk\Best of bollywood - FULL PACKAGE OF ORIGINAL SOUNDTRACKS\Best of bollywood\	-------	0	25	77.482.747	77.482.747
+FOLDER	E:\Folk\Best of bollywood - FULL PACKAGE OF ORIGINAL SOUNDTRACKS\Kabhi Khushi kabhi ghum\	-------	0	11	26.283.779	26.283.779
+FILE	01 Kabhi Khushi Kabh (1).mp4	3.584.970	24/04/2005 19:42	R-------
+FILE	02 Kabhi Khushi Kabh (1).mp4	3.193.292	24/04/2005 19:42	R-------
+FILE	03 Kabhi Khushi Kabh (1).mp4	2.682.607	24/04/2005 19:43	R-------
+FILE	04 Kabhi Khushi Kabh (1).mp4	3.364.734	24/04/2005 19:43	R-------
+FILE	05 Kabhi Khushi Kabh (1).mp4	3.239.466	24/04/2005 19:44	R-------
+FILE	06 Kabhi Khushi Kabh (1).mp4	2.590.535	24/04/2005 19:44	R-------
+FILE	07 Kabhi Khushi Kabh (1).mp4	862.420	24/04/2005 19:44	R-------
+FILE	08 Kabhi Khushi Kabh (1).mp4	2.794.587	24/04/2005 19:45	R-------
+FILE	09 Kabhi Khushi Kabh (1).mp4	861.302	24/04/2005 19:45	R-------
+FILE	10 Kabhi Khushi Kabh (1).mp4	1.176.270	24/04/2005 19:45	R-------
+FILE	11 Kabhi Khushi Kabh (1).mp4	1.933.596	24/04/2005 19:41	R-------
+TOTAL	E:\Folk\Best of bollywood - FULL PACKAGE OF ORIGINAL SOUNDTRACKS\Kabhi Khushi kabhi ghum\	-------	0	11	26.283.779	26.283.779
+FOLDER	E:\Folk\Best of bollywood - FULL PACKAGE OF ORIGINAL SOUNDTRACKS\Kal Ho naa ho\	-------	0	7	17.003.378	17.003.378
+FILE	Kal Ho Naa Ho - 01 -.mp4	2.314.910	24/04/2005 19:46	R-------
+FILE	Kal Ho Naa Ho - 02 -.mp4	2.653.673	24/04/2005 19:47	R-------
+FILE	Kal Ho Naa Ho - 03 -.mp4	2.463.512	24/04/2005 19:47	R-------
+FILE	Kal Ho Naa Ho - 04 -.mp4	2.364.199	24/04/2005 19:48	R-------
+FILE	Kal Ho Naa Ho - 05 -.mp4	2.488.299	24/04/2005 19:48	R-------
+FILE	Kal Ho Naa Ho - 06 -.mp4	2.681.262	24/04/2005 19:48	R-------
+FILE	Kal Ho Naa Ho - 07 -.mp4	2.037.523	24/04/2005 19:46	R-------
+TOTAL	E:\Folk\Best of bollywood - FULL PACKAGE OF ORIGINAL SOUNDTRACKS\Kal Ho naa ho\	-------	0	7	17.003.378	17.003.378
+FOLDER	E:\Folk\Best of bollywood - FULL PACKAGE OF ORIGINAL SOUNDTRACKS\Kuch Kuch hota Hai\	-------	0	10	25.157.280	25.157.280
+FILE	Bholi si surat.mp4	2.129.421	24/04/2005 19:49	R-------
+FILE	Koi Mil Gaya.mp4	3.519.281	24/04/2005 19:50	R-------
+FILE	Kuch Kuch Hota Hai (.mp4	655.472	24/04/2005 19:50	R-------
+FILE	Kuch Kuch Hota Hai.mp4	2.270.497	24/04/2005 19:51	R-------
+FILE	Ladki Badi Anjani Ha.mp4	3.078.417	24/04/2005 19:51	R-------
+FILE	Om Jai Jagdish Hare.mp4	2.805.519	24/04/2005 19:52	R-------
+FILE	Raja Ram.mp4	1.034.677	24/04/2005 19:52	R-------
+FILE	Saajanji Ghar Aaye.mp4	3.323.776	24/04/2005 19:52	R-------
+FILE	Tujhe Yaad Na Meri A.mp4	3.132.943	24/04/2005 19:53	R-------
+FILE	Yeh Ladka Hai Deewan.mp4	3.207.277	24/04/2005 19:49	R-------
+TOTAL	E:\Folk\Best of bollywood - FULL PACKAGE OF ORIGINAL SOUNDTRACKS\Kuch Kuch hota Hai\	-------	0	10	25.157.280	25.157.280
+FOLDER	E:\Folk\Best of bollywood - FULL PACKAGE OF ORIGINAL SOUNDTRACKS\Lagaan\	-------	0	8	20.962.886	20.962.886
+FILE	01 - A.R. Rehman - g.mp4	3.040.253	24/04/2005 20:02	R-------
+FILE	02 - A.R. Rehman - M.mp4	3.292.495	24/04/2005 20:03	R-------
+FILE	03 - A.R. Rehman - R.mp4	2.832.647	24/04/2005 20:03	R-------
+FILE	04 - A.R. Rehman - O.mp4	2.717.581	24/04/2005 20:03	R-------
+FILE	05 - A.R. Rehman - C.mp4	3.256.684	24/04/2005 20:04	R-------
+FILE	06 - A.R. Rehman - W.mp4	1.243.050	24/04/2005 20:04	R-------
+FILE	07 - A.R. Rehman - O.mp4	2.505.746	24/04/2005 20:05	R-------
+FILE	08 - A.R. Rehman - L.mp4	2.074.430	24/04/2005 20:01	R-------
+TOTAL	E:\Folk\Best of bollywood - FULL PACKAGE OF ORIGINAL SOUNDTRACKS\Lagaan\	-------	0	8	20.962.886	20.962.886
+FOLDER	E:\Folk\Best of bollywood - FULL PACKAGE OF ORIGINAL SOUNDTRACKS\MAIN HOON NA\	-------	0	8	18.705.645	18.705.645
+FILE	Main Hoon Na - 01 - Main Hoon Na.mp4	2.796.267	08/05/2005 21:37	R-------
+FILE	Main Hoon Na - 02 - Tumese Milke Dilka Jo Haal.mp4	2.872.367	08/05/2005 21:38	R-------
+FILE	Main Hoon Na - 03 - Tumhe Jo Maine Dekha.mp4	2.778.106	08/05/2005 21:48	R-------
+FILE	Main Hoon Na - 04 - Gori Gori......mp4	2.097.330	08/05/2005 21:48	R-------
+FILE	Main Hoon Na - 05 - Chale Jaise Hawaien.mp4	2.604.064	08/05/2005 21:39	R-------
+FILE	Main Hoon Na - 06 - Main Hoon Na (Sad).mp4	1.929.191	08/05/2005 21:39	R-------
+FILE	Main Hoon Na - 07 - Ye Fizaein.mp4	2.421.353	08/05/2005 21:40	R-------
+FILE	Main Hoon Na - 08 - Main Hoon Na (Remix).mp4	1.206.967	08/05/2005 21:37	R-------
+TOTAL	E:\Folk\Best of bollywood - FULL PACKAGE OF ORIGINAL SOUNDTRACKS\MAIN HOON NA\	-------	0	8	18.705.645	18.705.645
+FOLDER	E:\Folk\Best of bollywood - FULL PACKAGE OF ORIGINAL SOUNDTRACKS\Veer Zaara\	-------	0	11	53.925.568	53.925.568
+FILE	Gurdas Mann - Aisa Des Hai Mera.mp4	6.913.672	08/05/2005 21:41	R-------
+FILE	Gurdas Mann - Lodi.mp4	6.459.552	08/05/2005 21:42	R-------
+FILE	Jagjit Singh - Tum Paas Aa Rahe Ho.mp4	4.693.790	08/05/2005 21:42	R-------
+FILE	Lata Mangeshkar - Hum To Bhai Jaise Hain.mp4	4.067.035	08/05/2005 21:43	R-------
+FILE	Lata Mangeshkar - Jaane Kyon.mp4	4.830.561	08/05/2005 21:43	R-------
+FILE	Lata Mangeshkar - Kyon Hawa - Yash Chopra Speaks.mp4	2.939.243	08/05/2005 21:52	R-------
+FILE	Lata Mangeshkar - Tere Liye.mp4	4.900.215	08/05/2005 21:44	R-------
+FILE	Sonu Nigam - Do Pal.mp4	2.054.554	08/05/2005 21:52	R-------
+FILE	Udit Narayan - Main Yahaan Hoon.mp4	4.427.896	08/05/2005 21:45	R-------
+FILE	Udit Narayan - Yeh Hum Aa Gaye Hain Kahaan.mp4	5.411.183	08/05/2005 21:45	R-------
+FILE	Ustad Ahmed & Mohammed Hussain - Aaya Tere Dar Par.mp4	7.227.867	08/05/2005 21:40	R-------
+TOTAL	E:\Folk\Best of bollywood - FULL PACKAGE OF ORIGINAL SOUNDTRACKS\Veer Zaara\	-------	0	11	53.925.568	53.925.568
+TOTAL	E:\Folk\Best of bollywood - FULL PACKAGE OF ORIGINAL SOUNDTRACKS\	-------	7	80	239.521.283	239.521.283
+FOLDER	E:\Folk\Natacha Atlas-Ayeshteni\	-------	0	12	103.259.680	103.259.680
+FILE	01.-Shubra.mp3	10.931.431	07/06/2010 20:20	R-------
+FILE	02.-I put a spell on you.mp3	7.158.932	07/06/2010 20:21	R-------
+FILE	03.-Ashwa.mp3	11.611.869	07/06/2010 20:22	R-------
+FILE	04.-Ayestheni.mp3	9.518.729	07/06/2010 20:22	R-------
+FILE	05.-Soleil D'Egypte.mp3	6.139.111	07/06/2010 20:22	R-------
+FILE	06.-Ne me quitte pas.mp3	8.724.607	07/06/2010 20:23	R-------
+FILE	07.-Mish fadilak.mp3	9.999.382	07/06/2010 20:23	R-------
+FILE	08.-Rah.mp3	12.197.012	07/06/2010 20:25	R-------
+FILE	09.-Lelsama.mp3	8.455.522	16/11/2004 15:40	R-------
+FILE	10.-Fakrenha.mp3	7.419.192	16/11/2004 15:42	R-------
+FILE	11.-Manbai.mp3	11.103.711	16/11/2004 15:46	R-------
+FILE	Natacha Atlas-Ayeshteni.txt	182	26/06/2011 20:47	R-------
+TOTAL	E:\Folk\Natacha Atlas-Ayeshteni\	-------	0	12	103.259.680	103.259.680
+FOLDER	E:\Folk\Orquesta Andalusí de Tanger y Juan Peña Lebrijano-Encuentros\	-------	0	8	49.797.926	49.797.926
+FILE	Orquesta Andalusí de Tanger y Juan Peña Lebrijano - 01 - Vivir un cuento de hadas.mp3	7.384.082	20/10/2011 20:12	R-------
+FILE	Orquesta Andalusí de Tanger y Juan Peña Lebrijano - 02 - Dame la libertad.mp3	5.801.924	20/10/2011 20:12	R-------
+FILE	Orquesta Andalusí de Tanger y Juan Peña Lebrijano - 03 - Las mil y una noches.mp3	6.328.390	20/10/2011 20:13	R-------
+FILE	Orquesta Andalusí de Tanger y Juan Peña Lebrijano - 04 - Desafío.mp3	5.802.550	20/10/2011 20:13	R-------
+FILE	Orquesta Andalusí de Tanger y Juan Peña Lebrijano - 05 - El anillo (chibuli).mp3	6.807.280	20/10/2011 20:13	R-------
+FILE	Orquesta Andalusí de Tanger y Juan Peña Lebrijano - 06 - Pensamientos.mp3	4.268.224	20/10/2011 20:14	R-------
+FILE	Orquesta Andalusí de Tanger y Juan Peña Lebrijano - 07 - Amigo mío, no.mp3	6.665.178	20/10/2011 20:14	R-------
+FILE	Orquesta Andalusí de Tanger y Juan Peña Lebrijano - 08 - Esos ojos asesinos.mp3	6.740.298	20/10/2011 20:14	R-------
+TOTAL	E:\Folk\Orquesta Andalusí de Tanger y Juan Peña Lebrijano-Encuentros\	-------	0	8	49.797.926	49.797.926
+FOLDER	E:\Folk\Perico Sambeat.Flamenco Big Band (2008)\	-------	0	8	84.763.316	84.763.316
+FILE	01.-Cauce (Martinete, Soleá Por Bulerías, Bulerías).WMA	12.100.873	19/11/2008 18:51	R-------
+FILE	02.- Nido Del Aire (Nana).WMA	9.720.495	26/11/2008 18:04	R-------
+FILE	03.-Olhaíl - Luz Del Sur (Tanguillos).WMA	9.817.501	26/11/2008 18:21	R-------
+FILE	04.- Nocturno.WMA	9.638.413	26/11/2008 18:12	R-------
+FILE	05.- Tío Petila (Bulerías).WMA	9.630.951	21/10/2008 19:05	R-------
+FILE	06.- Soledad Sonora (Soleá).WMA	16.436.295	21/10/2008 19:06	R-------
+FILE	07.-Como Lo Oyes (Bulerías).WMA	9.362.319	19/11/2008 18:59	R-------
+FILE	08.- Guajira Para Duke (Guajira).WMA	8.056.469	19/11/2008 19:06	R-------
+TOTAL	E:\Folk\Perico Sambeat.Flamenco Big Band (2008)\	-------	0	8	84.763.316	84.763.316
+FOLDER	E:\Folk\Radio tarifa-Cruzando el río\	-------	0	11	21.717.521	21.717.521
+FILE	Radio Tarifa - Alab.mp3	1.282.740	13/06/2011 07:42	R-------
+FILE	Radio Tarifa - Cruzando el Rio.mp3	1.352.487	13/06/2011 07:40	R-------
+FILE	Radio Tarifa - El quinto.mp3	2.358.201	13/06/2011 07:43	R-------
+FILE	Radio Tarifa - El viaje de Léa.mp3	2.434.218	13/06/2011 07:39	R-------
+FILE	Radio Tarifa - Gujo bushi.mp3	1.913.336	13/06/2011 07:39	R-------
+FILE	Radio Tarifa - La molinera.mp3	2.369.434	13/06/2011 07:41	R-------
+FILE	Radio Tarifa - Osu.mp3	1.595.948	13/06/2011 07:38	R-------
+FILE	Radio Tarifa - Patas negras.mp3	2.438.920	13/06/2011 07:42	R-------
+FILE	Radio Tarifa - Ramo Verde.mp3	1.681.891	13/06/2011 07:41	R-------
+FILE	Radio Tarifa - Si j 'ai perdu mon ami.mp3	1.566.430	13/06/2011 07:43	R-------
+FILE	Radio Tarifa - Sin palabras.mp3	2.723.916	13/06/2011 07:40	R-------
+TOTAL	E:\Folk\Radio tarifa-Cruzando el río\	-------	0	11	21.717.521	21.717.521
+FOLDER	E:\Folk\sevillanas 2006\	-------	12	0	0	0
+FOLDER	E:\Folk\sevillanas 2006\Amigos de Gines\	-------	0	10	57.114.736	57.114.736
+FILE	Track01.mp3	5.641.821	17/01/2006 22:47	R-------
+FILE	Track02.mp3	6.577.840	17/01/2006 22:48	R-------
+FILE	Track03.mp3	5.161.586	17/01/2006 22:49	R-------
+FILE	Track04.mp3	6.241.801	17/01/2006 22:50	R-------
+FILE	Track05.mp3	6.577.213	17/01/2006 22:51	R-------
+FILE	Track06.mp3	5.306.408	17/01/2006 22:52	R-------
+FILE	Track07.mp3	5.353.429	17/01/2006 22:52	R-------
+FILE	Track08.mp3	5.160.959	17/01/2006 22:53	R-------
+FILE	Track09.mp3	6.241.801	17/01/2006 22:54	R-------
+FILE	Track10.mp3	4.851.878	17/01/2006 22:54	R-------
+TOTAL	E:\Folk\sevillanas 2006\Amigos de Gines\	-------	0	10	57.114.736	57.114.736
+FOLDER	E:\Folk\sevillanas 2006\Brumas\	-------	0	11	56.526.038	56.526.038
+FILE	Track01.mp3	5.211.114	17/01/2006 22:06	R-------
+FILE	Track02.mp3	4.981.654	17/01/2006 22:07	R-------
+FILE	Track03.mp3	5.101.399	17/01/2006 22:08	R-------
+FILE	Track04.mp3	4.871.940	17/01/2006 22:09	R-------
+FILE	Track05.mp3	4.826.173	17/01/2006 22:09	R-------
+FILE	Track06.mp3	5.219.264	17/01/2006 22:10	R-------
+FILE	Track07.mp3	6.060.616	17/01/2006 22:11	R-------
+FILE	Track08.mp3	4.768.495	17/01/2006 22:12	R-------
+FILE	Track09.mp3	5.737.115	17/01/2006 22:12	R-------
+FILE	Track10.mp3	4.752.821	17/01/2006 22:13	R-------
+FILE	Track11.mp3	4.995.447	17/01/2006 22:14	R-------
+TOTAL	E:\Folk\sevillanas 2006\Brumas\	-------	0	11	56.526.038	56.526.038
+FOLDER	E:\Folk\sevillanas 2006\Ecos de las Marismas\	-------	0	10	58.895.869	58.895.869
+FILE	Track01.mp3	6.439.914	17/01/2006 22:38	R-------
+FILE	Track02.mp3	6.161.553	17/01/2006 22:39	R-------
+FILE	Track03.mp3	6.112.025	17/01/2006 22:40	R-------
+FILE	Track04.mp3	5.779.747	17/01/2006 22:41	R-------
+FILE	Track05.mp3	4.886.359	17/01/2006 22:42	R-------
+FILE	Track06.mp3	6.817.958	17/01/2006 22:42	R-------
+FILE	Track07.mp3	5.671.914	17/01/2006 22:43	R-------
+FILE	Track08.mp3	6.139.610	17/01/2006 22:44	R-------
+FILE	Track09.mp3	5.668.779	17/01/2006 22:45	R-------
+FILE	Track10.mp3	5.218.010	17/01/2006 22:45	R-------
+TOTAL	E:\Folk\sevillanas 2006\Ecos de las Marismas\	-------	0	10	58.895.869	58.895.869
+FOLDER	E:\Folk\sevillanas 2006\Ecos del Rocio\	-------	0	10	56.845.152	56.845.152
+FILE	Track01.mp3	6.542.732	17/01/2006 16:10	R-------
+FILE	Track02.mp3	6.216.724	17/01/2006 16:11	R-------
+FILE	Track03.mp3	4.309.576	17/01/2006 16:11	R-------
+FILE	Track04.mp3	5.428.661	17/01/2006 16:12	R-------
+FILE	Track05.mp3	6.026.761	17/01/2006 16:13	R-------
+FILE	Track06.mp3	5.165.347	17/01/2006 16:14	R-------
+FILE	Track07.mp3	6.120.175	17/01/2006 16:15	R-------
+FILE	Track08.mp3	6.291.329	17/01/2006 16:15	R-------
+FILE	Track09.mp3	5.759.685	17/01/2006 16:16	R-------
+FILE	Track10.mp3	4.984.162	17/01/2006 16:17	R-------
+TOTAL	E:\Folk\sevillanas 2006\Ecos del Rocio\	-------	0	10	56.845.152	56.845.152
+FOLDER	E:\Folk\sevillanas 2006\Las Carlotas\	-------	0	10	58.932.231	58.932.231
+FILE	Track01.mp3	7.033.625	17/01/2006 22:56	R-------
+FILE	Track02.mp3	6.066.258	17/01/2006 22:57	R-------
+FILE	Track03.mp3	5.210.487	17/01/2006 22:58	R-------
+FILE	Track04.mp3	4.939.022	17/01/2006 22:59	R-------
+FILE	Track05.mp3	6.524.550	17/01/2006 23:00	R-------
+FILE	Track06.mp3	6.175.346	17/01/2006 23:01	R-------
+FILE	Track07.mp3	4.436.217	17/01/2006 23:01	R-------
+FILE	Track08.mp3	6.338.350	17/01/2006 23:02	R-------
+FILE	Track09.mp3	5.942.124	17/01/2006 23:03	R-------
+FILE	Track10.mp3	6.266.252	17/01/2006 23:04	R-------
+TOTAL	E:\Folk\sevillanas 2006\Las Carlotas\	-------	0	10	58.932.231	58.932.231
+FOLDER	E:\Folk\sevillanas 2006\los Marismeños\	-------	0	9	52.514.259	52.514.259
+FILE	Track01.mp3	5.787.897	17/01/2006 15:38	R-------
+FILE	Track02.mp3	5.816.737	17/01/2006 15:39	R-------
+FILE	Track03.mp3	6.096.978	17/01/2006 15:40	R-------
+FILE	Track04.mp3	5.695.737	17/01/2006 15:41	R-------
+FILE	Track05.mp3	6.034.284	17/01/2006 15:42	R-------
+FILE	Track06.mp3	5.545.899	17/01/2006 15:43	R-------
+FILE	Track07.mp3	5.567.842	17/01/2006 15:43	R-------
+FILE	Track08.mp3	6.108.263	17/01/2006 15:44	R-------
+FILE	Track09.mp3	5.860.622	17/01/2006 15:45	R-------
+TOTAL	E:\Folk\sevillanas 2006\los Marismeños\	-------	0	9	52.514.259	52.514.259
+FOLDER	E:\Folk\sevillanas 2006\Los Romeros de la puebla\	-------	0	11	64.645.523	64.645.523
+FILE	Track01.mp3	5.821.752	17/01/2006 15:47	R-------
+FILE	Track02.mp3	5.606.085	17/01/2006 15:48	R-------
+FILE	Track03.mp3	6.192.900	17/01/2006 15:49	R-------
+FILE	Track04.mp3	5.929.586	17/01/2006 15:50	R-------
+FILE	Track05.mp3	5.329.605	17/01/2006 15:51	R-------
+FILE	Track06.mp3	5.880.684	17/01/2006 15:51	R-------
+FILE	Track07.mp3	5.974.725	17/01/2006 15:52	R-------
+FILE	Track08.mp3	5.953.409	17/01/2006 15:53	R-------
+FILE	Track09.mp3	6.194.154	17/01/2006 15:54	R-------
+FILE	Track10.mp3	5.928.959	17/01/2006 15:55	R-------
+FILE	Track11.mp3	5.833.664	17/01/2006 15:55	R-------
+TOTAL	E:\Folk\sevillanas 2006\Los Romeros de la puebla\	-------	0	11	64.645.523	64.645.523
+FOLDER	E:\Folk\sevillanas 2006\Manuel Orta\	-------	0	12	76.648.892	76.648.892
+FILE	Track01.mp3	6.919.522	17/01/2006 15:58	R-------
+FILE	Track02.mp3	7.362.141	17/01/2006 15:59	R-------
+FILE	Track03.mp3	5.644.328	17/01/2006 16:00	R-------
+FILE	Track04.mp3	5.851.218	17/01/2006 16:01	R-------
+FILE	Track05.mp3	5.960.306	17/01/2006 16:01	R-------
+FILE	Track06.mp3	5.061.275	17/01/2006 16:02	R-------
+FILE	Track07.mp3	7.370.918	17/01/2006 16:03	R-------
+FILE	Track08.mp3	6.359.666	17/01/2006 16:04	R-------
+FILE	Track09.mp3	7.340.825	17/01/2006 16:05	R-------
+FILE	Track10.mp3	6.189.765	17/01/2006 16:06	R-------
+FILE	Track11.mp3	7.479.378	17/01/2006 16:07	R-------
+FILE	Track12.mp3	5.109.550	17/01/2006 16:07	R-------
+TOTAL	E:\Folk\sevillanas 2006\Manuel Orta\	-------	0	12	76.648.892	76.648.892
+FOLDER	E:\Folk\sevillanas 2006\Maria de la Colina\	-------	0	10	59.945.992	59.945.992
+FILE	Track01.mp3	5.737.115	17/01/2006 22:28	R-------
+FILE	Track02.mp3	5.653.106	17/01/2006 22:29	R-------
+FILE	Track03.mp3	6.025.507	17/01/2006 22:30	R-------
+FILE	Track04.mp3	6.216.097	17/01/2006 22:31	R-------
+FILE	Track05.mp3	5.917.674	17/01/2006 22:32	R-------
+FILE	Track06.mp3	6.661.850	17/01/2006 22:33	R-------
+FILE	Track07.mp3	6.157.791	17/01/2006 22:34	R-------
+FILE	Track08.mp3	5.750.281	17/01/2006 22:35	R-------
+FILE	Track09.mp3	6.122.056	17/01/2006 22:35	R-------
+FILE	Track10.mp3	5.704.515	17/01/2006 22:36	R-------
+TOTAL	E:\Folk\sevillanas 2006\Maria de la Colina\	-------	0	10	59.945.992	59.945.992
+FOLDER	E:\Folk\sevillanas 2006\Quejio\	-------	0	0	0	0
+TOTAL	E:\Folk\sevillanas 2006\Quejio\	-------	0	0	0	0
+FOLDER	E:\Folk\sevillanas 2006\Requiebros\	-------	0	12	71.269.757	71.269.757
+FILE	Track01.mp3	4.970.369	17/01/2006 15:28	R-------
+FILE	Track02.mp3	6.494.457	17/01/2006 15:29	R-------
+FILE	Track03.mp3	5.554.676	17/01/2006 15:30	R-------
+FILE	Track04.mp3	5.606.712	17/01/2006 15:30	R-------
+FILE	Track05.mp3	4.588.564	17/01/2006 15:31	R-------
+FILE	Track06.mp3	6.694.451	17/01/2006 15:32	R-------
+FILE	Track07.mp3	7.053.060	17/01/2006 15:33	R-------
+FILE	Track08.mp3	6.807.927	17/01/2006 15:34	R-------
+FILE	Track09.mp3	4.531.512	17/01/2006 15:34	R-------
+FILE	Track10.mp3	6.757.145	17/01/2006 15:35	R-------
+FILE	Track11.mp3	6.605.426	17/01/2006 15:36	R-------
+FILE	Track12.mp3	5.605.458	17/01/2006 15:37	R-------
+TOTAL	E:\Folk\sevillanas 2006\Requiebros\	-------	0	12	71.269.757	71.269.757
+FOLDER	E:\Folk\sevillanas 2006\Senderos\	-------	0	10	59.433.154	59.433.154
+FILE	Track01.mp3	5.750.281	17/01/2006 15:17	R-------
+FILE	Track02.mp3	6.519.535	17/01/2006 15:18	R-------
+FILE	Track03.mp3	5.587.904	17/01/2006 15:19	R-------
+FILE	Track04.mp3	5.972.844	17/01/2006 15:20	R-------
+FILE	Track05.mp3	5.204.217	17/01/2006 15:21	R-------
+FILE	Track06.mp3	6.588.498	17/01/2006 15:21	R-------
+FILE	Track07.mp3	5.807.332	17/01/2006 15:22	R-------
+FILE	Track08.mp3	5.986.637	17/01/2006 15:23	R-------
+FILE	Track09.mp3	6.379.101	17/01/2006 15:24	R-------
+FILE	Track10.mp3	5.636.805	17/01/2006 15:25	R-------
+TOTAL	E:\Folk\sevillanas 2006\Senderos\	-------	0	10	59.433.154	59.433.154
+TOTAL	E:\Folk\sevillanas 2006\	-------	12	115	672.771.603	672.771.603
+FOLDER	E:\Folk\Yo-Yo Ma-Obrigado Brazil\	-------	0	16	103.364.486	103.364.486
+FILE	Yo-Yo Ma - 01 - Cristal.mp3	4.076.042	01/07/2011 17:50	R-------
+FILE	Yo-Yo Ma - 02 - Chega De Saudade (Feat. Rosa Passos).mp3	6.145.598	01/07/2011 17:50	R-------
+FILE	Yo-Yo Ma - 03 - A Lenda Do Caboclo.mp3	4.563.070	01/07/2011 17:50	R-------
+FILE	Yo-Yo Ma - 04 - Doce De Coco.mp3	7.490.872	01/07/2011 17:51	R-------
+FILE	Yo-Yo Ma - 05 - Dansa Brasileira.mp3	3.311.070	01/07/2011 17:51	R-------
+FILE	Yo-Yo Ma - 06 - Apelo.mp3	7.141.564	01/07/2011 17:51	R-------
+FILE	Yo-Yo Ma - 07 - Dansa Negra.mp3	5.065.122	01/07/2011 17:52	R-------
+FILE	Yo-Yo Ma - 08 - 1 X 0 (Um A Zero).mp3	3.855.064	01/07/2011 17:52	R-------
+FILE	Yo-Yo Ma - 09 - Menino.mp3	8.063.662	01/07/2011 17:52	R-------
+FILE	Yo-Yo Ma - 10 - Samambaia.mp3	7.649.876	01/07/2011 17:52	R-------
+FILE	Yo-Yo Ma - 11 - Carinhoso.mp3	6.917.456	01/07/2011 17:53	R-------
+FILE	Yo-Yo Ma - 12 - Alma Brasileira.mp3	7.316.218	01/07/2011 17:53	R-------
+FILE	Yo-Yo Ma - 13 - O Amor Em Paz (Feat. Rosa Passos).mp3	5.563.418	01/07/2011 17:53	R-------
+FILE	Yo-Yo Ma - 14 - Bodas De Prata & Quatro Cantos.mp3	14.115.830	01/07/2011 17:54	R-------
+FILE	Yo-Yo Ma - 15 - Brasileirinho.mp3	5.050.724	01/07/2011 17:54	R-------
+FILE	Yo-Yo Ma - 16 - Salvador.mp3	7.038.900	01/07/2011 17:54	R-------
+TOTAL	E:\Folk\Yo-Yo Ma-Obrigado Brazil\	-------	0	16	103.364.486	103.364.486
+TOTAL	E:\Folk\	-------	26	250	1.275.195.815	1.275.195.815
+FOLDER	E:\Jazz\	-------	9	0	0	0
+FOLDER	E:\Jazz\Aldo Romano-Complete Communion to Don Cherry\	-------	0	12	70.307.932	70.307.932
+FILE	Aldo Romano - 01 - Rememberance.mp3	7.783.214	01/07/2011 18:09	R-------
+FILE	Aldo Romano - 02 - Elephantasy.mp3	7.616.072	01/07/2011 18:09	R-------
+FILE	Aldo Romano - 03 - Music Man.mp3	6.245.132	01/07/2011 18:09	R-------
+FILE	Aldo Romano - 04 - Spring Is Here.mp3	6.330.268	01/07/2011 18:10	R-------
+FILE	Aldo Romano - 05 - Jayne.mp3	5.800.672	01/07/2011 18:10	R-------
+FILE	Aldo Romano - 06 - Complete Communion.mp3	4.726.456	01/07/2011 18:10	R-------
+FILE	Aldo Romano - 07 - Don Song.mp3	3.291.664	01/07/2011 18:10	R-------
+FILE	Aldo Romano - 08 - The Blessing.mp3	7.243.602	01/07/2011 18:11	R-------
+FILE	Aldo Romano - 09 - Mothers Of The Veil.mp3	5.442.600	01/07/2011 18:11	R-------
+FILE	Aldo Romano - 10 - Gush !!.mp3	3.892.624	01/07/2011 18:11	R-------
+FILE	Aldo Romano - 11 - Art Deco.mp3	5.878.296	01/07/2011 18:11	R-------
+FILE	Aldo Romano - 12 - When Will The Blues Leave.mp3	6.057.332	01/07/2011 18:12	R-------
+TOTAL	E:\Jazz\Aldo Romano-Complete Communion to Don Cherry\	-------	0	12	70.307.932	70.307.932
+FOLDER	E:\Jazz\Charles MingusKen Burns Jazz\	-------	0	14	133.675.396	133.675.396
+FILE	01.-Haitian Fight Song.mp3	23.060.607	25/03/2011 18:45	R-------
+FILE	02.-Goodbye Pork Pie Hat.mp3	11.040.101	25/03/2011 18:46	R-------
+FILE	03.-Better Git It In Your Soul.mp3	14.180.646	25/03/2011 18:47	R-------
+FILE	04.-Original Faubus Fables.mp3	17.501.750	25/03/2011 18:48	R-------
+FILE	05.-Peggy's Blue Skylight.mp3	18.727.206	25/03/2011 18:49	R-------
+FILE	06.-Eat That Chicken.mp3	8.945.289	25/03/2011 18:50	R-------
+FILE	07.-Solo Dancer.mp3	12.774.631	25/03/2011 18:51	R-------
+FILE	08.-Mood Indigo.mp3	9.112.473	25/03/2011 18:51	R-------
+FILE	09.-The Shoes Of The Fisherman's Wife Are Some Jive Ass Slippers.mp3	18.330.145	25/03/2011 18:53	R-------
+FILE	CA_renombra.bat	69	08/04/2011 16:27	R------X
+FILE	CA_renombra.py	1.218	18/02/2010 08:25	R-------
+FILE	Charles Mingus-Ken Burns Jazz.txt	309	08/04/2011 16:28	R-------
+FILE	charlie mingus.m3u	637	25/03/2011 19:23	R-------
+FILE	chrlie mingus.txt	315	25/03/2011 19:25	R-------
+TOTAL	E:\Jazz\Charles MingusKen Burns Jazz\	-------	0	14	133.675.396	133.675.396
+FOLDER	E:\Jazz\Chet Baker-Complete Studio Sessions with Dick Twardzik - featuring Lars Gullin and Catherina Valente\	-------	0	13	85.794.900	85.794.900
+FILE	Chet Baker - 01 - Rondette.mp3	3.141.054	02/06/2011 07:47	R-------
+FILE	Chet Baker - 02 - Mid-Forte.mp3	4.506.360	02/06/2011 07:48	R-------
+FILE	Chet Baker - 03 - Sad Walk.mp3	6.112.676	02/06/2011 07:48	R-------
+FILE	Chet Baker - 04 - Re-Search.mp3	7.166.234	02/06/2011 07:49	R-------
+FILE	Chet Baker - 05 - Just Duo.mp3	6.040.060	02/06/2011 07:49	R-------
+FILE	Chet Baker - 06 - Piece Caprice.mp3	7.454.194	02/06/2011 07:49	R-------
+FILE	Chet Baker - 07 - Pomp.mp3	6.746.814	02/06/2011 07:50	R-------
+FILE	Chet Baker - 08 - The Girl From Greenland.mp3	7.538.078	02/06/2011 07:50	R-------
+FILE	Chet Baker - 09 - Brash.mp3	8.556.580	02/06/2011 07:50	R-------
+FILE	Chet Baker - 10 - Cool Blues (Bonus Track).mp3	4.640.324	02/06/2011 07:50	R-------
+FILE	Chet Baker - 11 - Brash (Bonus Track).mp3	6.531.470	02/06/2011 07:51	R-------
+FILE	Chet Baker - 12 - Lover Man (Bonus Track).mp3	7.778.462	02/06/2011 07:51	R-------
+FILE	Chet Baker - 13 - I'll Remember April (Bonus Track).mp3	9.582.594	02/06/2011 07:51	R-------
+TOTAL	E:\Jazz\Chet Baker-Complete Studio Sessions with Dick Twardzik - featuring Lars Gullin and Catherina Valente\	-------	0	13	85.794.900	85.794.900
+FOLDER	E:\Jazz\Esbjorn Svensson Trio-Retrospective - The very best of e.s.t\	-------	0	13	108.405.110	108.405.110
+FILE	Esbjorn Svensson Trio - 01 - From Gagarin's Point of View.mp3	5.887.942	20/10/2011 19:57	R-------
+FILE	Esbjorn Svensson Trio - 02 - Dodge the Dodo.mp3	6.225.726	20/10/2011 19:58	R-------
+FILE	Esbjorn Svensson Trio - 03 - Good Morning Susie Soho.mp3	8.371.284	20/10/2011 19:59	R-------
+FILE	Esbjorn Svensson Trio - 04 - Spam-Boo-Limbo.mp3	6.674.568	20/10/2011 19:59	R-------
+FILE	Esbjorn Svensson Trio - 05 - Behind the Yashmark.mp3	14.614.752	20/10/2011 20:01	R-------
+FILE	Esbjorn Svensson Trio - 06 - Viaticum.mp3	9.768.260	20/10/2011 20:02	R-------
+FILE	Esbjorn Svensson Trio - 07 - Seven Days of Falling.mp3	8.619.806	20/10/2011 20:02	R-------
+FILE	Esbjorn Svensson Trio - 08 - Strange Place for Snow.mp3	9.571.326	20/10/2011 20:03	R-------
+FILE	Esbjorn Svensson Trio - 09 - Believe, Beleft, Below.mp3	6.840.088	20/10/2011 20:04	R-------
+FILE	Esbjorn Svensson Trio - 10 - A Picture of Doris Travelling With Boris.mp3	8.073.308	20/10/2011 20:04	R-------
+FILE	Esbjorn Svensson Trio - 11 - Goldwrap.mp3	5.533.370	20/10/2011 20:05	R-------
+FILE	Esbjorn Svensson Trio - 12 - Dolores in a Shoestand.mp3	12.869.720	20/10/2011 20:06	R-------
+FILE	Esbjorn Svensson Trio - 13 - Leucocyte.mp3	5.354.960	20/10/2011 20:06	R-------
+TOTAL	E:\Jazz\Esbjorn Svensson Trio-Retrospective - The very best of e.s.t\	-------	0	13	108.405.110	108.405.110
+FOLDER	E:\Jazz\John Coltrane-A Love Supreme\	-------	1	6	47.241.738	47.241.738
+FILE	John Coltrane - 01 - Part 1_ Acknowledgement.mp3	11.094.128	07/06/2011 07:11	R-------
+FILE	John Coltrane - 02 - Part 2_ Resolution.mp3	10.533.232	07/06/2011 07:12	R-------
+FILE	John Coltrane - 03 - Part 3_ Pursuance.mp3	15.398.504	07/06/2011 07:13	R-------
+FILE	John Coltrane - 04 - Part 4_ Psalm.mp3	10.130.088	07/06/2011 07:13	R-------
+FILE	John Coltrane – A Love Supreme _ Analog Blog.htm	77.949	13/06/2011 07:47	R------X
+FILE	john-coltrane-a-love-supreme.pdf	7.837	13/06/2011 07:47	R-------
+FOLDER	E:\Jazz\John Coltrane-A Love Supreme\John Coltrane – A Love Supreme _ Analog Blog_files\	-------	3	64	9.061.789	9.061.789
+FILE	2266625.GIF	43	13/06/2011 07:47	R-------
+FILE	a.htm	705	13/06/2011 07:47	R------X
+FILE	ads.htm	750	13/06/2011 07:47	R------X
+FILE	all.js	124.772	13/06/2011 07:47	R------X
+FILE	avatar.jpg	1.073	13/06/2011 07:47	R-------
+FILE	blank.gif	43	13/06/2011 07:47	R-------
+FILE	bootstrap.htm	15	13/06/2011 07:47	R------X
+FILE	ckeditor.js	268.148	13/06/2011 07:47	R------X
+FILE	counter.js	7.266	13/06/2011 07:47	R------X
+FILE	e-201124.js	2.681	13/06/2011 07:47	R------X
+FILE	external-tracking.js	927	13/06/2011 07:47	R------X
+FILE	fonts.css	1.817	13/06/2011 07:47	R-------
+FILE	g.gif	50	13/06/2011 07:47	R-------
+FILE	ga.js	27.026	13/06/2011 07:47	R------X
+FILE	gprofiles.js	29.264	13/06/2011 07:47	R------X
+FILE	hovercard.css	7.006	13/06/2011 07:47	R-------
+FILE	in.php	176	13/06/2011 07:47	R-------
+FILE	John-Coltrane-A-Love-Supreme-LP.jpg	3.763.589	13/06/2011 07:47	R-------
+FILE	John-Coltrane-A-Love-Supreme-LP-Gatefold.jpg	4.335.235	13/06/2011 07:47	R-------
+FILE	jquery.css	1.264	13/06/2011 07:47	R-------
+FILE	jquery.js	31.032	13/06/2011 07:47	R------X
+FILE	jquery_002.js	4.202	13/06/2011 07:47	R------X
+FILE	jquery_003.js	3.713	13/06/2011 07:47	R------X
+FILE	jquery_004.js	7.099	13/06/2011 07:47	R------X
+FILE	jquery_005.js	4.246	13/06/2011 07:47	R------X
+FILE	jquery_006.js	3.713	13/06/2011 07:47	R------X
+FILE	jquery_007.js	78.620	13/06/2011 07:47	R------X
+FILE	js.js	9.237	13/06/2011 07:47	R------X
+FILE	l10n.js	308	13/06/2011 07:47	R------X
+FILE	like.htm	8.875	13/06/2011 07:47	R------X
+FILE	likebox.htm	17.292	13/06/2011 07:47	R------X
+FILE	main.js	1.409	13/06/2011 07:47	R------X
+FILE	meter.gif	669	13/06/2011 07:47	R-------
+FILE	ngg.js	1.750	13/06/2011 07:47	R------X
+FILE	nggallery.css	7.106	13/06/2011 07:47	R-------
+FILE	Njg1ZTU2OTkwMjZiNDA5ZDllZTcyYzM3NTg5ZDA5Y2Emb2Y9MA.gif	49	13/06/2011 07:47	R-------
+FILE	pagenavi-css.css	374	13/06/2011 07:47	R-------
+FILE	player-js.php	4.264	13/06/2011 07:47	R-------
+FILE	pop-widget.css	1.609	13/06/2011 07:47	R-------
+FILE	pop-widget.js	455	13/06/2011 07:47	R------X
+FILE	postTabs.js	1.384	13/06/2011 07:47	R------X
+FILE	pro_widget.swf	155.419	13/06/2011 07:47	R-------
+FILE	quant.js	5.265	13/06/2011 07:47	R------X
+FILE	services.css	2.955	13/06/2011 07:47	R-------
+FILE	show_ads.js	13.193	13/06/2011 07:47	R------X
+FILE	simple-image-link.css	697	13/06/2011 07:47	R-------
+FILE	style.css	662	13/06/2011 07:47	R-------
+FILE	swfobject.js	10.220	13/06/2011 07:47	R------X
+FILE	t.gif	43	13/06/2011 07:47	R-------
+FILE	thumbs_09%20Aiwa%20CS-50.jpg	9.262	13/06/2011 07:47	R-------
+FILE	thumbs_12%20Ben%20Harney-Pat%20Lundy-Leona%20Johnson.jpg	8.173	13/06/2011 07:47	R-------
+FILE	thumbs_16%20Casey%20Macem.jpg	8.069	13/06/2011 07:47	R-------
+FILE	thumbs_16-stevie-wonder-for-once-in-my-life.jpg	7.995	13/06/2011 07:47	R-------
+FILE	thumbs_33-stevie-wonder-where-im-coming-from.jpg	9.279	13/06/2011 07:47	R-------
+FILE	thumbs_Conte%20Candol%20-%20Sincerely%20Conte%2010.jpg	10.751	13/06/2011 07:47	R-------
+FILE	thumbs_George%2520Wein%2520Presents%2520Jazz%2520At%2520The%.jpg	11.862	13/06/2011 07:47	R-------
+FILE	thumbs_P2120300.jpg	8.545	13/06/2011 07:47	R-------
+FILE	thumbs_Stan%2520Getz%2520-%2520Jazz%2520At%2520Storyville%25.jpg	9.915	13/06/2011 07:47	R-------
+FILE	ui.js	4.324	13/06/2011 07:47	R------X
+FILE	ui_002.js	3.273	13/06/2011 07:47	R------X
+FILE	ui_003.js	11.630	13/06/2011 07:47	R------X
+FILE	wp-ajax-response.js	2.152	13/06/2011 07:47	R------X
+FILE	wpgroho.js	930	13/06/2011 07:47	R------X
+FILE	wp-lists.js	7.919	13/06/2011 07:47	R------X
+FOLDER	E:\Jazz\John Coltrane-A Love Supreme\John Coltrane – A Love Supreme _ Analog Blog_files\a_data\	-------	0	1	3.447	3.447
+FILE	beacon.js	3.447	13/06/2011 07:47	R------X
+TOTAL	E:\Jazz\John Coltrane-A Love Supreme\John Coltrane – A Love Supreme _ Analog Blog_files\a_data\	-------	0	1	3.447	3.447
+FOLDER	E:\Jazz\John Coltrane-A Love Supreme\John Coltrane – A Love Supreme _ Analog Blog_files\like_data\	-------	0	4	164.559	164.559
+FILE	a8-71wQDIx3.js	37.333	13/06/2011 07:47	R------X
+FILE	eptfJSfAjrr.js	25.739	13/06/2011 07:47	R------X
+FILE	Ou0QNrclV2b.js	68.200	13/06/2011 07:47	R------X
+FILE	pyZWX82DiDK.css	33.287	13/06/2011 07:47	R-------
+TOTAL	E:\Jazz\John Coltrane-A Love Supreme\John Coltrane – A Love Supreme _ Analog Blog_files\like_data\	-------	0	4	164.559	164.559
+FOLDER	E:\Jazz\John Coltrane-A Love Supreme\John Coltrane – A Love Supreme _ Analog Blog_files\likebox_data\	-------	0	39	367.789	367.789
+FILE	161835_100001251302019_8223884_q.jpg	1.941	13/06/2011 07:47	R-------
+FILE	173271_100000020456458_3021519_q.jpg	2.400	13/06/2011 07:47	R-------
+FILE	173408_1851726198_4644615_q.jpg	2.150	13/06/2011 07:47	R-------
+FILE	174397_1355284340_3991987_q.jpg	2.489	13/06/2011 07:47	R-------
+FILE	186002_100001779300706_1420228_q.jpg	2.118	13/06/2011 07:47	R-------
+FILE	186096_524007421_3611330_q.jpg	2.772	13/06/2011 07:47	R-------
+FILE	186521_1033039332_2408950_q.jpg	2.542	13/06/2011 07:47	R-------
+FILE	186597_100001467462907_2759716_q.jpg	2.353	13/06/2011 07:47	R-------
+FILE	186702_569116053_220653_q.jpg	2.493	13/06/2011 07:47	R-------
+FILE	187050_1131758721_3183756_q.jpg	2.144	13/06/2011 07:47	R-------
+FILE	187126_1031533437_3502042_q.jpg	2.885	13/06/2011 07:47	R-------
+FILE	187177_501752631_776269_q.jpg	2.242	13/06/2011 07:47	R-------
+FILE	187446_730731804_2804403_q.jpg	3.110	13/06/2011 07:47	R-------
+FILE	187487_597508096_432773_q.jpg	2.655	13/06/2011 07:47	R-------
+FILE	187525_100001430505104_6512727_q.jpg	3.003	13/06/2011 07:47	R-------
+FILE	187547_3617426_7998921_q.jpg	2.256	13/06/2011 07:47	R-------
+FILE	195320_522226248_3537029_q.jpg	3.069	13/06/2011 07:47	R-------
+FILE	195347_746827432_4459046_q.jpg	2.610	13/06/2011 07:47	R-------
+FILE	195390_81503101_3280163_q.jpg	2.802	13/06/2011 07:47	R-------
+FILE	202827_1625545751_2510341_q.jpg	2.298	13/06/2011 07:47	R-------
+FILE	203064_1245954372_2077227_q.jpg	2.297	13/06/2011 07:47	R-------
+FILE	203151_1609603891_2002007_q.jpg	3.167	13/06/2011 07:47	R-------
+FILE	203239_1158242613_758797_q.jpg	2.545	13/06/2011 07:47	R-------
+FILE	203255_1741936850_498609_q.jpg	2.540	13/06/2011 07:47	R-------
+FILE	211235_48502774_1547553_q.jpg	2.735	13/06/2011 07:47	R-------
+FILE	211246_1239231010_4937506_q.jpg	2.072	13/06/2011 07:47	R-------
+FILE	23129_100000550738324_8702_q.jpg	2.110	13/06/2011 07:47	R-------
+FILE	260951_501239993_1019137_q.jpg	2.527	13/06/2011 07:47	R-------
+FILE	27544_121420507881812_890_q.jpg	3.098	13/06/2011 07:47	R-------
+FILE	48913_100001231206134_1835449_q.jpg	3.309	13/06/2011 07:47	R-------
+FILE	49222_14204276_7372_q.jpg	2.753	13/06/2011 07:47	R-------
+FILE	AkVjWVFFdhX.js	6.074	13/06/2011 07:47	R------X
+FILE	eIpbnVKI9lR.png	153	13/06/2011 07:47	R-------
+FILE	fb_logo_small.png	540	13/06/2011 07:47	R-------
+FILE	hnAKuJ5eYKY.css	51.339	13/06/2011 07:47	R-------
+FILE	NSCTCZ866vV.css	27.683	13/06/2011 07:47	R-------
+FILE	OJBsowkZPti.js	60.987	13/06/2011 07:47	R------X
+FILE	UlIqmHJn-SK.gif	390	13/06/2011 07:47	R-------
+FILE	xfp-ll5tNb2.js	141.138	13/06/2011 07:47	R------X
+TOTAL	E:\Jazz\John Coltrane-A Love Supreme\John Coltrane – A Love Supreme _ Analog Blog_files\likebox_data\	-------	0	39	367.789	367.789
+TOTAL	E:\Jazz\John Coltrane-A Love Supreme\John Coltrane – A Love Supreme _ Analog Blog_files\	-------	3	108	9.597.584	9.597.584
+TOTAL	E:\Jazz\John Coltrane-A Love Supreme\	-------	4	114	56.839.322	56.839.322
+FOLDER	E:\Jazz\Lennart Åberg with Peter Erskine-Free Sprit\	-------	0	7	84.732.326	84.732.326
+FILE	Lennart Åberg with Peter Erskine - 01 - Arthur.mp3	12.225.936	11/07/2011 07:18	R-------
+FILE	Lennart Åberg with Peter Erskine - 02 - Rain.mp3	14.557.160	11/07/2011 07:19	R-------
+FILE	Lennart Åberg with Peter Erskine - 03 - Amarone.mp3	13.429.108	11/07/2011 07:20	R-------
+FILE	Lennart Åberg with Peter Erskine - 04 - Kashmir.mp3	5.448.860	11/07/2011 07:20	R-------
+FILE	Lennart Åberg with Peter Erskine - 05 - Tantra _ Mali doussn' gouni _ Desireless.mp3	21.142.310	11/07/2011 07:21	R-------
+FILE	Lennart Åberg with Peter Erskine - 06 - In memoriam.mp3	10.001.132	11/07/2011 07:21	R-------
+FILE	Lennart Åberg with Peter Erskine - 07 - Folkvisa.mp3	7.927.820	11/07/2011 07:22	R-------
+TOTAL	E:\Jazz\Lennart Åberg with Peter Erskine-Free Sprit\	-------	0	7	84.732.326	84.732.326
+FOLDER	E:\Jazz\Miles Davies.1970-08-29.IsleofWight\	-------	0	1	84.075.408	84.075.408
+FILE	Miles Davis - Call it Anything.MP3	84.075.408	24/08/2007 23:22	R-------
+TOTAL	E:\Jazz\Miles Davies.1970-08-29.IsleofWight\	-------	0	1	84.075.408	84.075.408
+FOLDER	E:\Jazz\Roy Eldridge & Dizzy Gillespie-The Complete Trumpet Kings Battle\	-------	0	15	153.425.280	153.425.280
+FILE	01.-Sometimes I'm Happy.mp3	10.328.734	25/03/2011 18:58	R-------
+FILE	02.-Algo Bueno.mp3	11.846.762	25/03/2011 18:59	R-------
+FILE	03.-Trumpet Blues.mp3	15.186.256	25/03/2011 19:00	R-------
+FILE	04.-The Heat's On.mp3	12.414.350	25/03/2011 19:00	R-------
+FILE	05.-The Ballad Medley.mp3	17.860.358	25/03/2011 19:01	R-------
+FILE	06.-Blue Moon.mp3	17.412.306	25/03/2011 19:02	R-------
+FILE	07.-I've Found A New Baby.mp3	17.700.698	25/03/2011 19:03	R-------
+FILE	08.-Pretty Eyed Baby.mp3	10.634.680	25/03/2011 19:03	R-------
+FILE	09.-I Can't Get Started.mp3	21.042.700	25/03/2011 19:04	R-------
+FILE	10.-Limehouse Blues.mp3	18.995.536	25/03/2011 19:05	R-------
+FILE	CA_renombra.bat	104	08/04/2011 16:20	R------X
+FILE	CA_renombra.py	1.218	18/02/2010 08:25	R-------
+FILE	dizzy gillespie.txt	399	25/03/2011 19:19	R-------
+FILE	dizzy.m3u	886	25/03/2011 19:15	R-------
+FILE	Roy Eldridge & Dizzy Gillespie-The Complete Trumpet Kings Battle.txt	293	08/04/2011 16:22	R-------
+TOTAL	E:\Jazz\Roy Eldridge & Dizzy Gillespie-The Complete Trumpet Kings Battle\	-------	0	15	153.425.280	153.425.280
+FOLDER	E:\Jazz\The Mills Brothers and Count Basie-Complete Recordings\	-------	0	21	92.848.608	92.848.608
+FILE	The Mills Brothers and Count Basie - 01 - Lazy River.mp3	5.167.160	11/07/2011 07:26	R-------
+FILE	The Mills Brothers and Count Basie - 02 - Release Me.mp3	3.983.394	11/07/2011 07:27	R-------
+FILE	The Mills Brothers and Count Basie - 03 - I Want To Be Happy.mp3	2.942.982	11/07/2011 07:27	R-------
+FILE	The Mills Brothers and Count Basie - 04 - Down Down Down.mp3	3.828.772	11/07/2011 07:28	R-------
+FILE	The Mills Brothers and Count Basie - 05 - The Whiffenpoof Song.mp3	4.670.742	11/07/2011 07:28	R-------
+FILE	The Mills Brothers and Count Basie - 06 - Tiny Bubbles.mp3	4.692.652	11/07/2011 07:29	R-------
+FILE	The Mills Brothers and Count Basie - 07 - I Dig Rock And Roll Music.mp3	4.522.636	11/07/2011 07:29	R-------
+FILE	The Mills Brothers and Count Basie - 08 - December.mp3	4.037.856	11/07/2011 07:30	R-------
+FILE	The Mills Brothers and Count Basie - 09 - Let Me Dream.mp3	4.143.024	11/07/2011 07:30	R-------
+FILE	The Mills Brothers and Count Basie - 10 - April In Paris.mp3	6.049.820	11/07/2011 07:31	R-------
+FILE	The Mills Brothers and Count Basie - 11 - I May Be Wrong But I Think You're Wonderful.mp3	4.659.730	11/07/2011 07:31	R-------
+FILE	The Mills Brothers and Count Basie - 12 - Gentle On My Mind.mp3	4.008.434	11/07/2011 07:31	R-------
+FILE	The Mills Brothers and Count Basie - 13 - Cherry.mp3	5.023.180	11/07/2011 07:32	R-------
+FILE	The Mills Brothers and Count Basie - 14 - You Never Miss The Water Till The Well Runs Dry.mp3	4.232.172	11/07/2011 07:32	R-------
+FILE	The Mills Brothers and Count Basie - 15 - Glow Worm.mp3	3.548.950	11/07/2011 07:32	R-------
+FILE	The Mills Brothers and Count Basie - 16 - Sent For You Yesterday.mp3	5.282.344	11/07/2011 07:33	R-------
+FILE	The Mills Brothers and Count Basie - 17 - Sunny.mp3	5.178.428	11/07/2011 07:33	R-------
+FILE	The Mills Brothers and Count Basie - 18 - I'll Be Around.mp3	4.000.296	11/07/2011 07:33	R-------
+FILE	The Mills Brothers and Count Basie - 19 - Cielito Lindo.mp3	3.433.140	11/07/2011 07:34	R-------
+FILE	The Mills Brothers and Count Basie - 20 - Blue And Sentimental.mp3	5.206.598	11/07/2011 07:34	R-------
+FILE	The Mills Brothers and Count Basie - 21 - Every Day.mp3	4.236.298	11/07/2011 07:34	R-------
+TOTAL	E:\Jazz\The Mills Brothers and Count Basie-Complete Recordings\	-------	0	21	92.848.608	92.848.608
+TOTAL	E:\Jazz\	-------	13	210	870.104.282	870.104.282
+FOLDER	E:\Opera\	-------	1	0	0	0
+FOLDER	E:\Opera\turandot\	-------	0	6	205.535.946	205.535.946
+FILE	CDImage1.mp3	87.073.017	22/11/2006 12:16	R-------
+FILE	CDImage2.mp3	103.476.244	22/11/2006 11:59	R-------
+FILE	Puccini - Turandot - back.bmp	7.489.704	31/08/2005 15:18	R-------
+FILE	Puccini - Turandot - front.bmp	7.495.256	31/08/2005 15:09	R-------
+FILE	Turandot [Ricciarelli, Domingo, Hendricks - Karajan] (CD1).log	862	31/08/2005 02:35	R-------
+FILE	Turandot [Ricciarelli, Domingo, Hendricks - Karajan] (CD2).log	863	31/08/2005 14:48	R-------
+TOTAL	E:\Opera\turandot\	-------	0	6	205.535.946	205.535.946
+TOTAL	E:\Opera\	-------	1	6	205.535.946	205.535.946
+FOLDER	E:\Pop\	-------	7	0	0	0
+FOLDER	E:\Pop\Driller Killer - 5 albums (1993-2000) 192kbs\	-------	5	0	0	0
+FOLDER	E:\Pop\Driller Killer - 5 albums (1993-2000) 192kbs\Driller_Killer_-_And_the_Winner_is-2000-SataN_INT\	-------	0	16	57.730.287	57.730.287
+FILE	00_driller_killer_-_and_the_winner_is-2000-satan_int.m3u	588	22/12/2003 18:01	R-------
+FILE	00_driller_killer_-_and_the_winner_is-2000-satan_int.nfo	6.031	22/12/2003 18:01	R-------
+FILE	00_driller_killer_-_and_the_winner_is-2000-satan_int.sfv	2.215	22/12/2003 18:01	R-------
+FILE	01_driller_killer_-_man_overbored-SataN.mp3	4.457.087	22/12/2003 18:04	R-------
+FILE	02_driller_killer_-_no_rules-SataN.mp3	3.658.994	22/12/2003 18:07	R-------
+FILE	03_driller_killer_-_fire_in_the_hole-SataN.mp3	2.944.284	22/12/2003 18:09	R-------
+FILE	04_driller_killer_-_legalize_murder_now-SataN.mp3	4.618.211	22/12/2003 18:13	R-------
+FILE	05_driller_killer_-_obsessed_by_speed-SataN.mp3	3.410.100	22/12/2003 18:15	R-------
+FILE	06_driller_killer_-_sliced-SataN.mp3	5.386.211	22/12/2003 18:16	R-------
+FILE	07_driller_killer_-_b.o.f.g-SataN.mp3	2.583.794	22/12/2003 18:18	R-------
+FILE	08_driller_killer_-_cyanide_kick-SataN.mp3	3.647.082	22/12/2003 18:21	R-------
+FILE	09_driller_killer_-_lost_man_landing-SataN.mp3	3.968.075	22/12/2003 18:24	R-------
+FILE	10_driller_killer_-_skin_n_bones-SataN.mp3	4.432.010	22/12/2003 18:28	R-------
+FILE	11_driller_killer_-_gated_communities-SataN.mp3	3.948.013	22/12/2003 18:32	R-------
+FILE	12_driller_killer_-_loose_screw-SataN.mp3	3.818.237	22/12/2003 18:35	R-------
+FILE	13_driller_killer_-_the_no_good_people-SataN.mp3	10.849.355	22/12/2003 18:46	R-------
+TOTAL	E:\Pop\Driller Killer - 5 albums (1993-2000) 192kbs\Driller_Killer_-_And_the_Winner_is-2000-SataN_INT\	-------	0	16	57.730.287	57.730.287
+FOLDER	E:\Pop\Driller Killer - 5 albums (1993-2000) 192kbs\Driller_Killer_-_Brutalize-1993-rH\	-------	0	17	35.593.904	35.593.904
+FILE	00-driller_killer-brutalize-1993-rh.m3u	530	22/12/2003 18:46	R-------
+FILE	00-driller_killer-brutalize-1993-rh.nfo	6.398	22/12/2003 18:46	R-------
+FILE	00-driller_killer-brutalize-1993-rh.sfv	670	22/12/2003 18:46	R-------
+FILE	01-driller_killer-bombs_away-rh.mp3	3.135.500	22/12/2003 18:49	R-------
+FILE	02-driller_killer-who-rh.mp3	1.656.552	22/12/2003 18:51	R-------
+FILE	03-driller_killer-up_your_arse-rh.mp3	3.973.718	22/12/2003 18:55	R-------
+FILE	04-driller_killer-legacy_of_anger-rh.mp3	1.875.353	22/12/2003 18:57	R-------
+FILE	05-driller_killer-alcoholocaust-rh.mp3	2.612.633	22/12/2003 19:00	R-------
+FILE	06-driller_killer-brutalize-rh.mp3	1.910.462	22/12/2003 19:02	R-------
+FILE	07-driller_killer-thorazin-rh.mp3	1.811.406	22/12/2003 19:04	R-------
+FILE	08-driller_killer-acts_of_violence-rh.mp3	2.844.601	22/12/2003 19:07	R-------
+FILE	09-driller_killer-hittinpunchinstabbinshooting-rh.mp3	1.949.332	22/12/2003 19:09	R-------
+FILE	10-driller_killer-futureless-rh.mp3	3.727.958	22/12/2003 19:08	R-------
+FILE	11-driller_killer-killer-rh.mp3	2.007.011	22/12/2003 19:11	R-------
+FILE	12-driller_killer-riot-rh.mp3	2.897.891	22/12/2003 19:14	R-------
+FILE	13-driller_killer-eternal_warfare-rh.mp3	3.005.724	22/12/2003 19:17	R-------
+FILE	14-driller_killer-smash_the_silence-rh.mp3	2.178.165	22/12/2003 19:20	R-------
+TOTAL	E:\Pop\Driller Killer - 5 albums (1993-2000) 192kbs\Driller_Killer_-_Brutalize-1993-rH\	-------	0	17	35.593.904	35.593.904
+FOLDER	E:\Pop\Driller Killer - 5 albums (1993-2000) 192kbs\Driller_Killer_-_Fuck_the_World-1997-SataN_INT\	-------	0	19	47.090.647	47.090.647
+FILE	00_driller_killer_-_fuck_the_world-1997-satan_int.m3u	713	22/12/2003 19:20	R-------
+FILE	00_driller_killer_-_fuck_the_world-1997-satan_int.nfo	6.256	22/12/2003 19:20	R-------
+FILE	00_driller_killer_-_fuck_the_world-1997-satan_int.sfv	2.681	22/12/2003 19:20	R-------
+FILE	01_driller_killer_-_tomorrow-SataN.mp3	3.441.446	22/12/2003 19:24	R-------
+FILE	02_driller_killer_-_hs._69-SataN.mp3	2.282.864	22/12/2003 19:27	R-------
+FILE	03_driller_killer_-_sick_shit-SataN.mp3	3.176.251	22/12/2003 19:30	R-------
+FILE	04_driller_killer_-_fuck_the_world-SataN.mp3	3.474.047	22/12/2003 19:34	R-------
+FILE	05_driller_killer_-_weakend_warrior-SataN.mp3	2.158.730	22/12/2003 19:37	R-------
+FILE	06_driller_killer_-_freeman-SataN.mp3	2.527.370	22/12/2003 19:40	R-------
+FILE	07_driller_killer_-_beaten_down-SataN.mp3	3.272.173	22/12/2003 19:44	R-------
+FILE	08_driller_killer_-_hellcome-SataN.mp3	2.546.805	22/12/2003 19:46	R-------
+FILE	09_driller_killer_-_thrill_of_the_pill-SataN.mp3	3.047.102	22/12/2003 20:03	R-------
+FILE	10_driller_killer_-_blind_naked_n_covered_with_shit-SataN.mp3	2.524.901	22/12/2003 20:05	R-------
+FILE	11_driller_killer_-_still_alive-SataN.mp3	2.832.062	22/12/2003 20:05	R-------
+FILE	12_driller_killer_-_times_up-SataN.mp3	3.821.371	22/12/2003 20:09	R-------
+FILE	13_driller_killer_-_suffering_is_human-SataN.mp3	3.025.159	22/12/2003 20:12	R-------
+FILE	14_driller_killer_-_i_couldnt_care_less-SataN.mp3	2.971.242	22/12/2003 20:15	R-------
+FILE	15_driller_killer_-_down_the_drain-SataN.mp3	3.479.690	22/12/2003 20:19	R-------
+FILE	16_driller_killer_-_lies-SataN.mp3	2.499.784	22/12/2003 20:22	R-------
+TOTAL	E:\Pop\Driller Killer - 5 albums (1993-2000) 192kbs\Driller_Killer_-_Fuck_the_World-1997-SataN_INT\	-------	0	19	47.090.647	47.090.647
+FOLDER	E:\Pop\Driller Killer - 5 albums (1993-2000) 192kbs\Driller_Killer_-_Reality_Bites-1998-SataN_INT\	-------	0	18	102.164.366	102.164.366
+FILE	00_driller_killer_-_reality_bites-1998-satan_int.m3u	720	22/12/2003 20:22	R-------
+FILE	00_driller_killer_-_reality_bites-1998-satan_int.nfo	6.181	22/12/2003 20:22	R-------
+FILE	00_driller_killer_-_reality_bites-1998-satan_int.sfv	2.623	22/12/2003 20:22	R-------
+FILE	01_driller_killer_-_scream_suffer_die-SataN.mp3	4.773.691	22/12/2003 20:27	R-------
+FILE	02_driller_killer_-_god_forgives-SataN.mp3	3.649.590	22/12/2003 20:31	R-------
+FILE	03_driller_killer_-____the_phanatix-SataN.mp3	5.501.567	22/12/2003 20:37	R-------
+FILE	04_driller_killer_-_count_me_out-SataN.mp3	4.089.074	22/12/2003 20:42	R-------
+FILE	05_driller_killer_-_where_the_sun_never_shines-SataN.mp3	5.759.866	22/12/2003 20:49	R-------
+FILE	06_driller_killer_-_mad_bad_n_pissed-SataN.mp3	4.152.395	22/12/2003 20:56	R-------
+FILE	07_driller_killer_-_no_reason_to_quit-SataN.mp3	4.472.761	22/12/2003 21:03	R-------
+FILE	08_driller_killer_-_the_scum_that_rules-SataN.mp3	4.803.158	22/12/2003 21:08	R-------
+FILE	09_driller_killer_-_from_one_hell_to_another-SataN.mp3	4.804.411	22/12/2003 21:16	R-------
+FILE	10_driller_killer_-_rise_above-SataN.mp3	2.790.684	22/12/2003 21:21	R-------
+FILE	11_driller_killer_-_cash_flow_zero-SataN.mp3	3.989.391	22/12/2003 21:26	R-------
+FILE	12_driller_killer_-_doomed_from_the_stat-SataN.mp3	4.383.109	22/12/2003 21:31	R-------
+FILE	13_driller_killer_-_fear_today_gun_tomorrow-SataN.mp3	4.332.326	22/12/2003 21:37	R-------
+FILE	14_driller_killer_-_dont_point-SataN.mp3	3.596.927	22/12/2003 21:41	R-------
+FILE	15_driller_killer_-_bonus-SataN.mp3	41.055.892	22/12/2003 22:22	R-------
+TOTAL	E:\Pop\Driller Killer - 5 albums (1993-2000) 192kbs\Driller_Killer_-_Reality_Bites-1998-SataN_INT\	-------	0	18	102.164.366	102.164.366
+FOLDER	E:\Pop\Driller Killer - 5 albums (1993-2000) 192kbs\Driller_Killer_-_Total_Fucking_Hate-1995-SataN_INT\	-------	0	15	46.750.880	46.750.880
+FILE	00_driller_killer_-_total_fucking_hate-1995-satan_int.m3u	545	22/12/2003 22:22	R-------
+FILE	00_driller_killer_-_total_fucking_hate-1995-satan_int.nfo	5.956	22/12/2003 22:22	R-------
+FILE	00_driller_killer_-_total_fucking_hate-1995-satan_int.sfv	2.057	22/12/2003 22:22	R-------
+FILE	01_driller_killer_-_fucked_for_life-SataN.mp3	4.378.720	22/12/2003 22:52	R-------
+FILE	02_driller_killer_-_this_means_war-SataN.mp3	3.629.528	22/12/2003 22:50	R-------
+FILE	03_driller_killer_-_from_out_of_nowhere-SataN.mp3	3.327.971	22/12/2003 22:54	R-------
+FILE	04_driller_killer_-_wrong_again-SataN.mp3	3.017.009	22/12/2003 22:58	R-------
+FILE	05_driller_killer_-_food_for_worms-SataN.mp3	3.331.105	22/12/2003 23:02	R-------
+FILE	06_driller_killer_-_sk_neland-SataN.mp3	4.442.041	22/12/2003 23:09	R-------
+FILE	07_driller_killer_-_speed_d_mon-SataN.mp3	3.960.552	22/12/2003 23:14	R-------
+FILE	08_driller_killer_-_re-arranged_face-SataN.mp3	3.331.105	22/12/2003 23:20	R-------
+FILE	09_driller_killer_-_ruled_by_none-SataN.mp3	4.165.561	22/12/2003 23:27	R-------
+FILE	10_driller_killer_-_wanne_be_s-SataN.mp3	2.622.038	22/12/2003 23:30	R-------
+FILE	11_driller_killer_-_power_hour-SataN.mp3	8.034.400	22/12/2003 23:40	R-------
+FILE	12_driller_killer_-_from_out_of_nowhere-SataN.mp3	2.502.292	22/12/2003 23:43	R-------
+TOTAL	E:\Pop\Driller Killer - 5 albums (1993-2000) 192kbs\Driller_Killer_-_Total_Fucking_Hate-1995-SataN_INT\	-------	0	15	46.750.880	46.750.880
+TOTAL	E:\Pop\Driller Killer - 5 albums (1993-2000) 192kbs\	-------	5	85	289.330.084	289.330.084
+FOLDER	E:\Pop\Duffy - Rockferry (2008) + Bonustracks\	-------	2	12	53.924.568	53.924.568
+FILE	00-duffy-rockferry-2008.m3u	263	28/03/2008 15:22	R-------
+FILE	00-duffy-rockferry-2008.sfv	363	28/03/2008 15:22	R-------
+FILE	01-duffy-rockferry.mp3	7.155.123	28/03/2008 15:22	R-------
+FILE	02-duffy-warwick_avenue.mp3	5.133.716	28/03/2008 15:22	R-------
+FILE	03-duffy-serious.mp3	6.177.171	28/03/2008 15:23	R-------
+FILE	04-duffy-stepping_stone.mp3	4.738.478	28/03/2008 15:23	R-------
+FILE	05-duffy-syrup_and_honey.mp3	3.634.830	28/03/2008 15:23	R-------
+FILE	06-duffy-hanging_on_too_long.mp3	5.613.499	28/03/2008 15:23	R-------
+FILE	07-duffy-mercy.mp3	5.148.864	28/03/2008 15:23	R-------
+FILE	08-duffy-delayed_devotion.mp3	3.676.603	28/03/2008 15:23	R-------
+FILE	09-duffy-im_scared.mp3	3.861.788	28/03/2008 15:23	R-------
+FILE	10-duffy-distant_dreamer.mp3	8.783.870	28/03/2008 15:23	R-------
+FOLDER	E:\Pop\Duffy - Rockferry (2008) + Bonustracks\Bonus\	-------	0	7	68.054.671	68.054.671
+FILE	01. Mercy-live from London.mp3	9.637.137	27/03/2008 16:50	R-------
+FILE	02. Tomorrow-live from London.mp3	7.898.427	27/03/2008 16:50	R-------
+FILE	03. Rockferry-live from London.mp3	10.335.129	27/03/2008 16:50	R-------
+FILE	04. Breaking My Own Heart-live from London.mp3	11.271.357	27/03/2008 16:50	R-------
+FILE	05. DUFF B-Side - Save_It_For_Your_Prayers.mp3	7.478.333	27/03/2008 16:49	R-------
+FILE	06. Mercy (Dunproofin's Thankful Mix).mp3	12.458.153	27/03/2008 16:40	R-------
+FILE	07. Cariad Dwi n Unig (Welsh).mp3	8.976.135	27/03/2008 16:40	R-------
+TOTAL	E:\Pop\Duffy - Rockferry (2008) + Bonustracks\Bonus\	-------	0	7	68.054.671	68.054.671
+FOLDER	E:\Pop\Duffy - Rockferry (2008) + Bonustracks\Covers\	-------	0	4	1.753.503	1.753.503
+FILE	Back.jpg	489.707	05/03/2008 09:15	R-------
+FILE	Back-2.jpg	300.154	05/03/2008 09:15	R-------
+FILE	CD.jpg	355.908	05/03/2008 09:15	R-------
+FILE	Front.jpg	607.734	05/03/2008 09:15	R-------
+TOTAL	E:\Pop\Duffy - Rockferry (2008) + Bonustracks\Covers\	-------	0	4	1.753.503	1.753.503
+TOTAL	E:\Pop\Duffy - Rockferry (2008) + Bonustracks\	-------	2	23	123.732.742	123.732.742
+FOLDER	E:\Pop\Lena - My Cassette Player - 2010\	-------	0	21	105.330.558	105.330.558
+FILE	Lena (Meyer-Landrut) - My Cassette Player - 00-2010-booklet1.jpg	320.088	07/05/2010 16:14	R-------
+FILE	Lena (Meyer-Landrut) - My Cassette Player - 00-2010-booklet2.jpg	271.452	07/05/2010 16:14	R-------
+FILE	Lena (Meyer-Landrut) - My Cassette Player - 00-2010-booklet3.jpg	299.729	07/05/2010 16:14	R-------
+FILE	Lena (Meyer-Landrut) - My Cassette Player - 00-2010-booklet4.jpg	280.258	07/05/2010 16:14	R-------
+FILE	Lena (Meyer-Landrut) - My Cassette Player - 00-2010-booklet5.jpg	321.217	07/05/2010 16:14	R-------
+FILE	Lena (Meyer-Landrut) - My Cassette Player - 00-2010-booklet6.jpg	292.530	07/05/2010 16:14	R-------
+FILE	Lena (Meyer-Landrut) - My Cassette Player - 00-2010-booklet7.jpg	331.535	07/05/2010 16:14	R-------
+FILE	Lena (Meyer-Landrut) - My Cassette Player - 00-2010-cover.jpg	424.991	06/05/2010 21:02	R-------
+FILE	Lena (Meyer-Landrut) - My Cassette Player - 01 - Sattelite.mp3	7.050.247	06/05/2010 20:57	R-------
+FILE	Lena (Meyer-Landrut) - My Cassette Player - 02 - My Cassette Player.mp3	8.645.815	06/05/2010 20:58	R-------
+FILE	Lena (Meyer-Landrut) - My Cassette Player - 03 - Not Following.mp3	8.714.774	06/05/2010 20:58	R-------
+FILE	Lena (Meyer-Landrut) - My Cassette Player - 04 - I Like To Bang My Head.mp3	8.193.378	06/05/2010 20:58	R-------
+FILE	Lena (Meyer-Landrut) - My Cassette Player - 05 - My Same.mp3	7.317.739	06/05/2010 20:59	R-------
+FILE	Lena (Meyer-Landrut) - My Cassette Player - 06 - Caterpillar In The Rain.mp3	8.885.102	06/05/2010 20:59	R-------
+FILE	Lena (Meyer-Landrut) - My Cassette Player - 07 - Love Me.mp3	7.256.090	06/05/2010 20:59	R-------
+FILE	Lena (Meyer-Landrut) - My Cassette Player - 08 - Touch A New Day.mp3	7.541.355	06/05/2010 21:00	R-------
+FILE	Lena (Meyer-Landrut) - My Cassette Player - 09 - Bee.mp3	7.220.559	06/05/2010 21:00	R-------
+FILE	Lena (Meyer-Landrut) - My Cassette Player - 10 - You Cant Stop Me.mp3	7.075.333	06/05/2010 21:00	R-------
+FILE	Lena (Meyer-Landrut) - My Cassette Player - 11 - Mr. Curiosity.mp3	8.919.574	06/05/2010 21:01	R-------
+FILE	Lena (Meyer-Landrut) - My Cassette Player - 12 - I Just Want Your Kiss.mp3	7.476.577	06/05/2010 21:01	R-------
+FILE	Lena (Meyer-Landrut) - My Cassette Player - 13 - Wonderful Dreaming.mp3	8.492.215	06/05/2010 21:01	R-------
+TOTAL	E:\Pop\Lena - My Cassette Player - 2010\	-------	0	21	105.330.558	105.330.558
+FOLDER	E:\Pop\Maldita Nerea - Facil\	-------	0	10	76.137.191	76.137.191
+FILE	01-maldita_nerea-facil-vpe.mp3	9.147.571	02/06/2011 14:59	R-------
+FILE	02-maldita_nerea-no_podiamos_ser_agua-vpe.mp3	7.580.855	02/06/2011 14:58	R-------
+FILE	03-maldita_nerea-el_error-vpe.mp3	7.170.971	02/06/2011 14:59	R-------
+FILE	04-maldita_nerea-el_ltimo_dia-vpe.mp3	7.502.513	02/06/2011 14:59	R-------
+FILE	05-maldita_nerea-en_el_mundo_genial_de_las_cosas_que_dices-vpe.mp3	7.979.040	02/06/2011 14:59	R-------
+FILE	06-maldita_nerea-con_lo_que_nos_hemos_dado-vpe.mp3	7.934.807	02/06/2011 14:59	R-------
+FILE	07-maldita_nerea-sobraron_precipicios-vpe.mp3	7.121.408	02/06/2011 15:01	R-------
+FILE	08-maldita_nerea-verso_acabado._punto.-vpe.mp3	7.898.484	02/06/2011 15:01	R-------
+FILE	09-maldita_nerea-el_inventario-vpe.mp3	6.668.070	02/06/2011 15:01	R-------
+FILE	10-maldita_nerea-no_queda_nadie-vpe.mp3	7.133.472	02/06/2011 15:01	R-------
+TOTAL	E:\Pop\Maldita Nerea - Facil\	-------	0	10	76.137.191	76.137.191
+FOLDER	E:\Pop\Nirvana.-.Nevermind\	-------	0	13	104.859.681	104.859.681
+FILE	Nevermind.m3u	799	25/02/2002 21:29	R-------
+FILE	Nirvana - 01 - Smells Like Teen Spirit.mp3	9.959.643	25/02/2002 20:31	R-------
+FILE	Nirvana - 02 - In Bloom.mp3	8.464.547	25/02/2002 20:33	R-------
+FILE	Nirvana - 03 - Come As You Are.mp3	6.929.550	25/02/2002 20:38	R-------
+FILE	Nirvana - 04 - Breed.mp3	6.185.764	25/02/2002 20:40	R-------
+FILE	Nirvana - 05 - Lithium.mp3	8.323.393	25/02/2002 20:43	R-------
+FILE	Nirvana - 06 - Polly.mp3	5.014.749	25/02/2002 20:45	R-------
+FILE	Nirvana - 07 - Territorial Pissings.mp3	4.681.462	25/02/2002 20:46	R-------
+FILE	Nirvana - 08 - Drain You.mp3	7.518.528	25/02/2002 20:48	R-------
+FILE	Nirvana - 09 - Lounge Act.mp3	5.022.426	25/02/2002 20:50	R-------
+FILE	Nirvana - 10 - Stay Away.mp3	6.944.180	25/02/2002 20:52	R-------
+FILE	Nirvana - 11 - On a Plain.mp3	6.395.120	25/02/2002 20:54	R-------
+FILE	Nirvana - 12 - Something in the Way.mp3	29.419.520	25/02/2002 21:28	R-------
+TOTAL	E:\Pop\Nirvana.-.Nevermind\	-------	0	13	104.859.681	104.859.681
+FOLDER	E:\Pop\Roy Orbison - Greatets Hits Disco 2\	-------	0	22	188.531.767	188.531.767
+FILE	Roy Orbison - Greatest Hits (Disc 2) - 01-You Got It.mp3	8.449.316	03/12/2009 21:52	R-------
+FILE	Roy Orbison - Greatest Hits (Disc 2) - 02-California Blue.mp3	9.520.341	03/12/2009 21:52	R-------
+FILE	Roy Orbison - Greatest Hits (Disc 2) - 03-In Dreams.mp3	6.869.429	03/12/2009 21:52	R-------
+FILE	Roy Orbison - Greatest Hits (Disc 2) - 04-Not Alone Anymore.mp3	8.198.547	03/12/2009 21:52	R-------
+FILE	Roy Orbison - Greatest Hits (Disc 2) - 05-Mama.mp3	7.268.575	03/12/2009 21:52	R-------
+FILE	Roy Orbison - Greatest Hits (Disc 2) - 06-Unchained Melody.mp3	8.749.208	03/12/2009 21:52	R-------
+FILE	Roy Orbison - Greatest Hits (Disc 2) - 07-Coming Home.mp3	9.708.419	03/12/2009 21:52	R-------
+FILE	Roy Orbison - Greatest Hits (Disc 2) - 08-Waymore's Blues.mp3	5.880.962	03/12/2009 21:52	R-------
+FILE	Roy Orbison - Greatest Hits (Disc 2) - 09-She's A Mystery To Me.mp3	10.283.123	03/12/2009 21:52	R-------
+FILE	Roy Orbison - Greatest Hits (Disc 2) - 10-A Love So Beautiful.mp3	8.544.411	03/12/2009 21:52	R-------
+FILE	Roy Orbison - Greatest Hits (Disc 2) - 11-Hound Dog Man.mp3	6.505.809	03/12/2009 21:52	R-------
+FILE	Roy Orbison - Greatest Hits (Disc 2) - 12-Oh, Pretty Woman [Live Version].mp3	14.847.247	03/12/2009 21:52	R-------
+FILE	Roy Orbison - Greatest Hits (Disc 2) - 13-(All I Can Do Is) Dream You [Live Version].mp3	8.753.413	03/12/2009 21:52	R-------
+FILE	Roy Orbison - Greatest Hits (Disc 2) - 14-You're The One.mp3	7.241.418	03/12/2009 21:52	R-------
+FILE	Roy Orbison - Greatest Hits (Disc 2) - 15-Crying.mp3	9.130.585	03/12/2009 21:52	R-------
+FILE	Roy Orbison - Greatest Hits (Disc 2) - 16-After The Love Has Gone.mp3	11.209.949	03/12/2009 21:52	R-------
+FILE	Roy Orbison - Greatest Hits (Disc 2) - 17-Wild Hearts Run Out Of Time.mp3	8.539.194	03/12/2009 21:52	R-------
+FILE	Roy Orbison - Greatest Hits (Disc 2) - 18-You May Feel Me Crying.mp3	10.317.605	03/12/2009 21:52	R-------
+FILE	Roy Orbison - Greatest Hits (Disc 2) - 19-Life Fades Away.mp3	8.941.468	03/12/2009 21:52	R-------
+FILE	Roy Orbison - Greatest Hits (Disc 2) - 20-It's Over [Live Version].mp3	7.826.571	03/12/2009 21:52	R-------
+FILE	Roy Orbison - Greatest Hits (Disc 2) - 21-We'll Take The Night.mp3	11.730.305	03/12/2009 21:52	R-------
+FILE	Thumbs.db	15.872	16/05/2011 12:02	RH------
+TOTAL	E:\Pop\Roy Orbison - Greatets Hits Disco 2\	-------	0	22	188.531.767	188.531.767
+FOLDER	E:\Pop\VA.-.Pioneer.The.Album.Vol.7.3CD.2006.MP3.192kbps.[MP3-ES.com]\	-------	0	60	324.914.932	324.914.932
+FILE	101-outwork-elektro.mp3	3.464.532	08/10/2006 13:05	R-------
+FILE	102-bob_sinclair-world_hold_on.mp3	5.839.487	08/10/2006 13:05	R-------
+FILE	103-david_guetta-love_dont_let_me_go.mp3	4.480.921	08/10/2006 13:02	R-------
+FILE	104-roger_sanchez-lost.mp3	5.238.269	08/10/2006 13:02	R-------
+FILE	105-supermode-tell_me_why.mp3	4.621.274	08/10/2006 13:00	R-------
+FILE	106-dirty_south_vs_evermode-its_too_late.mp3	4.492.555	08/10/2006 13:05	R-------
+FILE	107-till_west-same_man.mp3	4.186.224	08/10/2006 13:02	R-------
+FILE	108-jealousy-lucy.mp3	5.561.078	08/10/2006 13:00	R-------
+FILE	109-james_kakande-you_you_you.mp3	6.440.433	08/10/2006 13:02	R-------
+FILE	110-kathy_brown-dare_me.mp3	5.352.204	08/10/2006 13:02	R-------
+FILE	111-jesse_garcia-lets_get_happy.mp3	5.047.266	08/10/2006 13:02	R-------
+FILE	112-wally_lopez-dont_you.mp3	5.202.196	08/10/2006 13:02	R-------
+FILE	113-kimbee-fade.mp3	4.389.855	08/10/2006 13:02	R-------
+FILE	114-axwell-watch_the_sunrise.mp3	5.421.137	08/10/2006 13:02	R-------
+FILE	115-erick_morillo-jazz_in_your_face.mp3	6.393.234	08/10/2006 13:02	R-------
+FILE	116-aerosoul-sometimes.mp3	5.760.192	08/10/2006 13:05	R-------
+FILE	117-milk_and_sugar-has_your_man_got_soul.mp3	4.850.196	08/10/2006 13:03	R-------
+FILE	118-sander_kleinenberg-this_is_ibiza.mp3	5.209.456	08/10/2006 13:03	R-------
+FILE	119-mync_project-something_on_your_mind.mp3	7.479.280	08/10/2006 13:05	R-------
+FILE	120-phillippe_b-ibiza_mi_amor.mp3	7.188.324	08/10/2006 13:03	R-------
+FILE	201-the_underdog_project-remember.mp3	6.374.718	08/10/2006 13:03	R-------
+FILE	202-resent-la_machine_a_danser.mp3	3.852.007	08/10/2006 13:00	R-------
+FILE	203-deep_dicks-dreams.mp3	6.641.082	08/10/2006 13:06	R-------
+FILE	204-alexandra_prince-are_you.mp3	6.395.032	08/10/2006 13:03	R-------
+FILE	205-sara_jorge-beautiful_world.mp3	4.553.514	08/10/2006 13:00	R-------
+FILE	206-millenium-day_after_day.mp3	6.331.222	08/10/2006 13:03	R-------
+FILE	207-dj_rob_boskamp-in_the_evening.mp3	4.276.056	08/10/2006 13:00	R-------
+FILE	208-deodato-fire_in_the_sky.mp3	4.582.120	08/10/2006 13:00	R-------
+FILE	209-antoine_clamran-keep_on_tryin.mp3	5.944.883	08/10/2006 13:03	R-------
+FILE	210-bananarama-move_in_my_direction.mp3	5.251.209	08/10/2006 13:01	R-------
+FILE	211-mish_mash-speechless.mp3	6.357.612	08/10/2006 13:03	R-------
+FILE	212-camille_jones-creeps.mp3	4.047.825	08/10/2006 13:01	R-------
+FILE	213-gabriel_and_dresden-tracking_treasure_down.mp3	4.242.912	08/10/2006 13:01	R-------
+FILE	214-nalin_and_kane-open_your_eyes.mp3	4.146.323	08/10/2006 13:01	R-------
+FILE	215-damien_j_carter-what_world.mp3	5.222.533	08/10/2006 13:04	R-------
+FILE	216-believers-youll_never_change.mp3	4.917.960	08/10/2006 13:01	R-------
+FILE	217-sergi_m_vs_solar_system-happy.mp3	5.970.235	08/10/2006 13:04	R-------
+FILE	218-tom_sigmond-one_moment.mp3	6.088.727	08/10/2006 13:04	R-------
+FILE	219-maximum_lush-you_and_i.mp3	3.636.004	08/10/2006 13:04	R-------
+FILE	220-calanit-sculptured.mp3	5.525.401	08/10/2006 13:06	R-------
+FILE	301-c_and_g-bootleg_in_the_gun.mp3	5.942.425	08/10/2006 13:04	R-------
+FILE	302-darude-sandstorm.mp3	6.223.066	08/10/2006 13:04	R-------
+FILE	303-ballroom-remember_me.mp3	5.445.666	08/10/2006 13:01	R-------
+FILE	304-francesco_diaz-ibiza.mp3	5.925.850	08/10/2006 13:04	R-------
+FILE	305-marco_v-false_light.mp3	4.730.596	08/10/2006 13:01	R-------
+FILE	306-kadoc-you_got_to_be_there.mp3	6.123.908	08/10/2006 13:04	R-------
+FILE	307-beth-_wild_-walls_of_science.mp3	6.435.729	08/10/2006 13:04	R-------
+FILE	308-dino_sofos-breathe.mp3	7.183.462	08/10/2006 13:06	R-------
+FILE	309-fairmont-gazebo.mp3	5.463.323	08/10/2006 13:04	R-------
+FILE	310-hard_frequency-strange.mp3	4.443.263	08/10/2006 13:01	R-------
+FILE	311-tom_snare-philosophy.mp3	5.197.140	08/10/2006 13:01	R-------
+FILE	312-abel_ramos-electro_fun.mp3	4.688.163	08/10/2006 13:01	R-------
+FILE	313-randy_katana-play_it_louder.mp3	5.176.210	08/10/2006 13:01	R-------
+FILE	314-krafft-rock_da_house.mp3	5.426.750	08/10/2006 13:05	R-------
+FILE	315-eric_morin-sad_song.mp3	6.035.917	08/10/2006 13:05	R-------
+FILE	316-gabi_newman-eva.mp3	5.808.112	08/10/2006 13:05	R-------
+FILE	317-13th_zone-lost_illusions.mp3	5.061.070	08/10/2006 13:05	R-------
+FILE	318-jones_and_stephenson-the_first_rebirth.mp3	6.770.481	08/10/2006 13:06	R-------
+FILE	319-dsigual_vol.11-dreams.mp3	5.999.042	08/10/2006 13:06	R-------
+FILE	320-john_acquaviva-feedback.mp3	5.859.271	08/10/2006 13:06	R-------
+TOTAL	E:\Pop\VA.-.Pioneer.The.Album.Vol.7.3CD.2006.MP3.192kbps.[MP3-ES.com]\	-------	0	60	324.914.932	324.914.932
+TOTAL	E:\Pop\	-------	14	234	1.212.836.955	1.212.836.955
+TOTAL	E:\	-------	72	910	4.618.509.876	4.618.509.876
