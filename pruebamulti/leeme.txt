@@ -1,0 +1,22 @@
+20-Febrero-2013
+
+
+Se trata de una prueba de test en pyhton
+
+multi.py
+--------
+
+Es un programa que recibe 2 números , los multiplica 2 y devuelve el producto con exit(resul)
+
+
+Para pasar de multi.py a multi.exe se usa py2xe:
+
+python setup.py py2exe
+
+
+pruebamulti.py 
+---------------
+
+dados 2 números llama a multi.exe y comprueba que los ha multiplicado bien
+
+
