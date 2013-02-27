@@ -1,0 +1,13 @@
+27-Febrero-2013
+
+Escaping
+
+Modulo que dado un json quita los \n y los espacios y luego 
+escapa las " cambiandolas por \".
+
+Forma de uso:
+
+python escaping.py fichero_json
+
+Muestra por pantalla el string ya preparado para Java
+
