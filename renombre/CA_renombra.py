@@ -3,6 +3,7 @@
 CA_renombra.py
 
 v1.1 17-2-10
+v2.0 5-7-12 (Versión con GUI)
 
 Nota: Hay que tener cuidado de no poner TABs y de dejar una linea 
 despues de la ultima (EOF).
@@ -12,6 +13,12 @@ despues de la ultima (EOF).
 
 import os
 import sys
+
+from wxPython.wx import *
+
+_selectedFile = "SEL_FILE"
+_userCancel  = "USER_CANCEL"
+selectedFile =""
 
 def renamer(fN) :
    i = 1
@@ -41,10 +48,35 @@ def renamer(fN) :
         print "Error al leer la linea" + linea 
    f.close()
 
+def fileChoose():
+   global selectedFile, _selectedFile , _userCancel #you should define them before
+   application = wxPySimpleApp()
+   
+   # Create a list of filters
+   # This should be fairly simple to follow, so no explanation is necessary
+   filters = 'All files (*.*)|*.*|Text files (*.txt)|*.txt'
+
+   dialog = wxFileDialog ( None, message = 'Open something....', wildcard = filters, style = wxOPEN | wxMULTIPLE )
+   if dialog.ShowModal() == wxID_OK:
+
+      # We'll have to make room for multiple files here
+      selected = dialog.GetPaths()
+
+      for selection in selected:
+           selectedFile = selection
+           print 'Selected:', selection
+           return _selectedFile
+   else:
+       print 'Nothing was selected.'
+       dialog.Destroy()
+       return _userCancel
+
 # test the function/module
 #
 
 if __name__ == "__main__":
-   print sys.argv[1]
-   renamer(sys.argv[1])
-  
+   ret = fileChoose ()
+   if ret == _selectedFile:
+       print selectedFile
+       os.chdir(os.path.dirname(selectedFile))
+       renamer(selectedFile)
