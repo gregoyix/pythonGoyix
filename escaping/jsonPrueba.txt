@@ -1,0 +1,15 @@
+ {
+    "name": "PEPITO2",
+    "type": "Observation",
+    "notifyURI": "http://host:34/App",
+    "filter": {
+        "property": "urn:x-ogc:def:phenomenon:IDAS:1.0:temperature",
+        "operator": "=",
+        "max": 25,
+        "min": "MinValue"
+    },
+    "resource": {
+        "groups": [],
+        "assets": []
+    }
+}
