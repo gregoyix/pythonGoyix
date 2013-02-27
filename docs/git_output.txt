@@ -1,0 +1,17 @@
+git status
+
+git remote -r
+
+git log -1
+
+git branch 
+
+git blame <file>
+
+gitt diff
+
+git tag
+
+git describe
+
+

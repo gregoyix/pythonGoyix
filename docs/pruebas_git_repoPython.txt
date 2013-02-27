@@ -1,0 +1,37 @@
+
+
+Me creo un repo puthon mio en github
+
+git clone git@github.com:gregoyix/pythonGoyix.git __repoPython
+
+
+
+
+ git clone git@github.com:gregoyix/pythonGoyix.git __repoPython
+ cd __repoPython/
+ ls
+ git status
+ git log
+ 
+ # Me creo la rama develop
+ 
+ git branch develop
+ git checkout develop
+ git status
+  mkdir escaping
+ git status
+ ls
+ git add escaping/
+ git status
+ git commit -m "creado escaping"
+ 
+# Hago push y asi me creo la rama develop
+git push origin develop
+
+# Hago merge con master
+
+git checkout master
+git merge develop
+
+git pull origin develop
+

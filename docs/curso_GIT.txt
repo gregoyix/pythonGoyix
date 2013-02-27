@@ -1,0 +1,173 @@
+
+SCM: Software Configuration Management
+
+1) Remote vs Local: clone
+
+Repo github.com/Telefonica/dca-workshop
+
+
+gravatar.com
+
+github.com
+skype: borjamartinfernandez
+@borjamartinfer
+bmartinf@axpe.com
+epg@tid.es
+pdihub.hi.inet
+gravatar.com
+
+
+mkdir Repositories && cd $_
+ssh_keygen -t rsa
+
+Clave id2_rsa.pub
+cat id2_rsa.pub
+
+
+Clonado git clone (ssh, http)
+pull &pusk sincronizamos
+
+git clone git@github.com:Telefonica/dca-workshop.git
+
+git config --global user.name "Gregorio Martin Romero"
+git config --global user.email gmr@tid.es
+
+git status
+
+git remote -v
+
+git log -1
+
+git branch -r
+
+git branch goyix
+git checkout goyix
+
+Repositorio: directorio + historico modificaciones
+
+touch goyix_file
+
+git status
+
+Entidades GIT
+
+directorio SA (staging area zona de preparacion) Repository 
+
+touch lo pone en le directortio
+
+lo pasamos a la SA con add
+y finalmemte hacemos el commit 
+
+git add goyix_file
+
+git commit -m "create goyix-file"
+git push origin goyix
+
+git branch -r
+
+Vamos a juntar todas las ramas en master
+
+pull request
+
+master <-- gustavo
+
+git pull origin (me traigo los punteros a todas las ramas)
+
+git checkout gustavo
+
+
+---------------
+$ git checkout goyix
+witched to branch 'goyix'
+gmr@PC505728 ~/Repositories/dca-workshop (goyix)
+$ vi goyix_file
+gmr@PC505728 ~/Repositories/dca-workshop (goyix)
+$ vi goyix_file
+gmr@PC505728 ~/Repositories/dca-workshop (goyix)
+$ git add goyix_file
+gmr@PC505728 ~/Repositories/dca-workshop (goyix)
+$ git commit -m "Edit goyix_file as requested in #5"
+[goyix f0cab30] Edit goyix_file as requested in #5
+1 file changed, 1 insertion(+), 1 deletion(-)
+gmr@PC505728 ~/Repositories/dca-workshop (goyix)
+ git push origin goyix
+Counting objects: 5, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 373 bytes, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To git@github.com:Telefonica/dca-workshop.git
+  b43cf2b..f0cab30  goyix -> goyix
+gmr@PC505728 ~/Repositories/dca-workshop (goyix)
+
+---------------------------------------------------------------
+
+git checkout master no vale aun
+git pull origin master(actualizamos la rama)
+git checkout master
+
+
+
+merges ---> no fast forward o plain
+
+Para arreglar el destino mergeamos la rama destino contra la origen
+
+git diff vonflict_branch master
+
+
+tags (a nivel local)
+ git tag -a 2.0 -m "2.0:Evil Plan"
+ git push -origin --tags
+ git tag -d 2.0
+ git pull origin --tags
+ 
+git tag
+git checkout b9a27c3
+git tag -a 1.0 -m "1.0:Libro de visitas"
+
+gitk --all
+
+-------------------
+SCM
+-------------------
+ETERNAS
+-------
+master
+develop
+release/x.y.z
+
+TOPIC
+-------
+
+-complejidad 1
+feature/* Funcionalidades nuevas (US JIRA)
+bug/*
+hardening/* Functionality complete y code complete
+
+-complejidad 2
+task/* Subtask JIRA
+
+================================0
+
+S1 S2 S3 == 1.0.0/Fc == 1.0.0/CC y aki ya rama release release/1.0.0
+
+
+delivery phase
+
+release/1.0.0
+
+master	1.0.0.17 no de releases
+
+no se pueden hacer merges de ramas eternas solo de la ultima release a master
+
+cherry-pick
+
+
+
+
+
+
+
+
+
+
