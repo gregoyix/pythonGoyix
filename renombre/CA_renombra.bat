@@ -1,1 +1,0 @@
-c:\Python27\python CA_renombra.py "Roy Eldridge & Dizzy Gillespie-The Complete Trumpet Kings Battle.txt"
