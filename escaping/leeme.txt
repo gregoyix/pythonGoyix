@@ -11,3 +11,7 @@ python escaping.py fichero_json
 
 Muestra por pantalla el string ya preparado para Java
 
+28-Febrero-2013
+
+Version con Gui reciclada de renombra
+

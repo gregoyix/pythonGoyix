@@ -1,9 +1,23 @@
 ﻿#! /usr/bin/env python
 
-import sys
+"""
+###############################################################################
+escaping.py
+
+v1.1 27-2-13
+v2.0 28-2-13 (Versión con GUI)
+
+###############################################################################
+"""
+
+from wxPython.wx import *
+
+import os,sys
 import json
 
-programa = 'multi.exe'
+_selectedFile = "SEL_FILE"
+_userCancel  = "USER_CANCEL"
+selectedFile =""
 
 # Read mode opens a file for reading only.
 def abre_file(name):
@@ -38,16 +52,39 @@ def escaping(f):
     print sal
     #print json.dumps(f)
     
-if __name__ == "__main__":
+def fileChoose():
+   global selectedFile, _selectedFile , _userCancel #you should define them before
+   application = wxPySimpleApp()
+   
+   # Create a list of filters
+   # This should be fairly simple to follow, so no explanation is necessary
+   filters = 'All files (*.*)|*.*|Text files (*.txt)|*.txt'
 
-    if len(sys.argv) >= 2:
-        print "Fichero original " + sys.argv[1]
-    else:
-        print "Este programa necesita un parámetros";
-        sys.exit(-1)
+   dialog = wxFileDialog ( None, message = 'Open something....', wildcard = filters, style = wxOPEN | wxMULTIPLE )
+   if dialog.ShowModal() == wxID_OK:
 
-    escaping(sys.argv[1])
-    
+      # We'll have to make room for multiple files here
+      selected = dialog.GetPaths()
 
+      for selection in selected:
+           selectedFile = selection
+           print 'Selected:', selection
+           return _selectedFile
+   else:
+       print 'Nothing was selected.'
+       dialog.Destroy()
+       return _userCancel    
+
+if __name__ == "__main__":        
+    ret = fileChoose ()
+    if ret == _selectedFile:
+        print selectedFile
+        os.chdir(os.path.dirname(selectedFile))
+        escaping(selectedFile)
+
+        # Espero a que el usuario apriete una tecla (Para que no se muera el programa
+        var = raw_input("Apriete una tecla para terminar")
+        sys.exit(1)
+        
 
 
