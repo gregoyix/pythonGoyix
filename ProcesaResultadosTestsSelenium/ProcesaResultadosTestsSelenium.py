@@ -3,18 +3,16 @@
 ProcesaResultadosTestsSelenium.py
 
 v1.1 7-3-13
+v2.1 04-03-13 (Importo la parte de wxPython de un modulo aparte (gxWxPython)
+y anyado que el usuario apriete una tecla para que no se cierra la pantalla
 ###############################################################################
 
 """
 
 import os
 import sys
-
-from wxPython.wx import *
-
-_selectedFile = "SEL_FILE"
-_userCancel  = "USER_CANCEL"
-selectedFile =""
+sys.path.append("../__utils")
+from gxWxPython import gxWxDameFichero
 
 def dime_resultados(fN) :
    i = 1
@@ -47,36 +45,19 @@ def dime_resultados(fN) :
             g.write(linea[s4:])            
    f.close()
    g.close()
-
-def fileChoose():
-   global selectedFile, _selectedFile , _userCancel #you should define them before
-   application = wxPySimpleApp()
    
-   # Create a list of filters
-   # This should be fairly simple to follow, so no explanation is necessary
-   filters = 'All files (*.*)|*.*|Text files (*.txt)|*.txt'
-
-   dialog = wxFileDialog ( None, message = 'Open something....', wildcard = filters, style = wxOPEN | wxMULTIPLE )
-   if dialog.ShowModal() == wxID_OK:
-
-      # We'll have to make room for multiple files here
-      selected = dialog.GetPaths()
-
-      for selection in selected:
-           selectedFile = selection
-           print 'Selected:', selection
-           return _selectedFile
-   else:
-       print 'Nothing was selected.'
-       dialog.Destroy()
-       return _userCancel
-
 # test the function/module
 #
 
 if __name__ == "__main__":
-   ret = fileChoose ()
-   if ret == _selectedFile:
-       print selectedFile
-       os.chdir(os.path.dirname(selectedFile))
-       dime_resultados(selectedFile)
+    ret, file = gxWxDameFichero ()    
+    if ret == 0:
+       os.chdir(os.path.dirname(file))
+       dime_resultados(file)
+       # Espero a que el usuario apriete una tecla (Para que no se muera el programa
+       var = raw_input("Apriete una tecla para terminar")        
+    else :
+       print "Error en la aplicacion"
+        
+
+
